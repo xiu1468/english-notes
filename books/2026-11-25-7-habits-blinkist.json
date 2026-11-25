@@ -2272,6 +2272,390 @@
      "trans": "和新團隊建立信任需要時間、努力和練習。"
     }
    ]
+  },
+  {
+   "seg": 8,
+   "top": [
+    213,
+    215,
+    231
+   ],
+   "items": [
+    {
+     "n": 201,
+     "cat": "chunk",
+     "term": "be teeming with",
+     "ipa": "teem /tiːm/",
+     "pos": "v. phr.",
+     "meaning": "充滿（生物、人群）",
+     "usage": "teem with life / tourists / ideas，多用進行式。近義 be full of、be swarming with。",
+     "example": "The market was teeming with tourists.",
+     "trans": "市場裡擠滿了觀光客。"
+    },
+    {
+     "n": 202,
+     "cat": "chunk",
+     "term": "vibrant and lush",
+     "ipa": "vibrant /ˈvaɪ.brənt/ · lush /lʌʃ/",
+     "pos": "adj. phr.",
+     "meaning": "生機蓬勃、草木茂盛",
+     "usage": "vibrant＝充滿活力的（vibrant city / colors / culture）；lush＝植物茂密的（lush green hills）。",
+     "example": "The city has a vibrant nightlife.",
+     "trans": "這座城市的夜生活很熱鬧。"
+    },
+    {
+     "n": 203,
+     "cat": "chunk",
+     "term": "stream through",
+     "ipa": "",
+     "pos": "v. phr.",
+     "meaning": "（光線）灑進、流洩而過",
+     "usage": "stream 當動詞＝成串流動：Sunlight streamed through the window. 另義線上串流。",
+     "example": "Morning light streamed through the blinds.",
+     "trans": "晨光從百葉窗灑了進來。"
+    },
+    {
+     "n": 204,
+     "cat": "chunk",
+     "term": "give credit to",
+     "ipa": "",
+     "pos": "v. phr.",
+     "meaning": "把功勞歸給",
+     "usage": "give sb credit for sth；take credit for＝居功。credit 在此不是信用。",
+     "example": "I have to give credit to the design team for this idea.",
+     "trans": "這個點子的功勞要歸給設計團隊。"
+    },
+    {
+     "n": 205,
+     "cat": "chunk",
+     "term": "emerge and thrive",
+     "ipa": "thrive /θraɪv/",
+     "pos": "v. phr.",
+     "meaning": "出現並蓬勃發展",
+     "usage": "emerge＝浮現、出現（emerging markets 新興市場）；thrive＝茁壯、興盛（thrive under pressure）。",
+     "example": "Small businesses thrive when rents are low.",
+     "trans": "租金低時，小商家就能蓬勃發展。"
+    },
+    {
+     "n": 206,
+     "cat": "chunk",
+     "term": "the whole is greater than the sum of its parts",
+     "ipa": "",
+     "pos": "idiom",
+     "meaning": "整體大於部分之和",
+     "usage": "形容團隊或組合產生的綜效（synergy，#220）。",
+     "example": "With this team, the whole is truly greater than the sum of its parts.",
+     "trans": "這個團隊真的是整體大於部分之和。"
+    },
+    {
+     "n": 207,
+     "cat": "chunk",
+     "term": "be open to (N / V-ing)",
+     "ipa": "",
+     "pos": "v. phr.",
+     "meaning": "願意接受、對……持開放態度",
+     "usage": "to 是介係詞：open to suggestions / feedback / working overseas。",
+     "example": "I'm open to working weekends if needed.",
+     "trans": "有需要的話我願意週末上班。"
+    },
+    {
+     "n": 208,
+     "cat": "chunk",
+     "term": "unlock (its) potential",
+     "ipa": "",
+     "pos": "v. phr.",
+     "meaning": "釋放潛力",
+     "usage": "與 #5 tap into one's hidden potential 同義，語感更強。",
+     "example": "The right training can unlock an employee's full potential.",
+     "trans": "合適的訓練能讓員工完全發揮潛力。"
+    },
+    {
+     "n": 209,
+     "cat": "chunk",
+     "term": "bring together",
+     "ipa": "",
+     "pos": "phr. v.",
+     "meaning": "聚集、使團結",
+     "usage": "bring people / ideas together；被動 be brought together。",
+     "example": "The conference brings together experts from 20 countries.",
+     "trans": "這場會議匯集了來自 20 國的專家。"
+    },
+    {
+     "n": 210,
+     "cat": "chunk",
+     "term": "reinforce each other",
+     "ipa": "reinforce /ˌriː.ɪnˈfɔːrs/",
+     "pos": "v. phr.",
+     "meaning": "相輔相成、互相強化",
+     "usage": "reinforce＝加強、鞏固（reinforce a message / habit）。名詞 reinforcement。",
+     "example": "Good habits tend to reinforce each other.",
+     "trans": "好習慣往往會相輔相成。"
+    },
+    {
+     "n": 211,
+     "cat": "chunk",
+     "term": "positive attributes",
+     "ipa": "attribute /ˈæt.rə.bjuːt/",
+     "pos": "n. phr.",
+     "meaning": "優點、正面特質",
+     "usage": "attribute（n.）重音在前；動詞 attribute /əˈtrɪb.juːt/ A to B＝把 A 歸因於 B。",
+     "example": "Patience is one of her best attributes.",
+     "trans": "耐心是她最好的特質之一。"
+    },
+    {
+     "n": 212,
+     "cat": "chunk",
+     "term": "stray from",
+     "ipa": "stray /streɪ/",
+     "pos": "v. phr.",
+     "meaning": "偏離（主題、計畫）",
+     "usage": "stray from the topic / the plan / the path；stray dog＝流浪狗。",
+     "example": "Let's not stray too far from the agenda.",
+     "trans": "我們別離議程太遠。"
+    },
+    {
+     "n": 213,
+     "cat": "chunk",
+     "term": "draw on",
+     "ipa": "",
+     "pos": "phr. v.",
+     "meaning": "借鑑、運用（經驗、資源）",
+     "usage": "draw on one's experience / knowledge / savings。近義 make use of（#142）。",
+     "example": "She drew on her years in sales to train new hires.",
+     "trans": "她運用多年的業務經驗來培訓新人。"
+    },
+    {
+     "n": 214,
+     "cat": "chunk",
+     "term": "put sth into practice",
+     "ipa": "",
+     "pos": "v. phr.",
+     "meaning": "付諸實行",
+     "usage": "與 #30 in practice 相關；近義 implement（#221）。",
+     "example": "It's time to put these ideas into practice.",
+     "trans": "是時候把這些點子付諸實行了。"
+    },
+    {
+     "n": 215,
+     "cat": "chunk",
+     "term": "build on",
+     "ipa": "",
+     "pos": "phr. v.",
+     "meaning": "以……為基礎進一步發展",
+     "usage": "build on sb's ideas / success / strengths。會議常說 Let me build on what Tom said.",
+     "example": "Let me build on what Lisa just said.",
+     "trans": "我想延伸 Lisa 剛剛說的。"
+    },
+    {
+     "n": 216,
+     "cat": "chunk",
+     "term": "put together (a team)",
+     "ipa": "",
+     "pos": "phr. v.",
+     "meaning": "組成（團隊）；整理出",
+     "usage": "put together a team / report / plan / proposal。",
+     "example": "We need to put together a proposal by Friday.",
+     "trans": "我們需要在週五前整理出一份提案。"
+    },
+    {
+     "n": 217,
+     "cat": "chunk",
+     "term": "clash with",
+     "ipa": "clash /klæʃ/",
+     "pos": "v. phr.",
+     "meaning": "與……衝突",
+     "usage": "意見、個性、時間衝突皆可：The meeting clashes with my dentist appointment.；顏色不搭也用 clash。",
+     "example": "His ideas often clash with the manager's.",
+     "trans": "他的想法常和經理的衝突。"
+    },
+    {
+     "n": 218,
+     "cat": "chunk",
+     "term": "an atmosphere of trust",
+     "ipa": "atmosphere /ˈæt.mə.sfɪr/",
+     "pos": "n. phr.",
+     "meaning": "信任的氛圍",
+     "usage": "create / build an atmosphere of trust / respect；atmosphere 也指大氣層。",
+     "example": "Open feedback creates an atmosphere of trust.",
+     "trans": "開放的回饋能營造信任的氛圍。"
+    },
+    {
+     "n": 219,
+     "cat": "word",
+     "term": "canopy",
+     "ipa": "/ˈkæn.ə.pi/",
+     "pos": "n.",
+     "meaning": "樹冠層；遮篷",
+     "usage": "森林頂部的枝葉層；也指帳篷、床的頂蓋。",
+     "example": "Little sunlight reaches the forest floor through the thick canopy.",
+     "trans": "茂密的樹冠讓森林地面幾乎照不到陽光。"
+    },
+    {
+     "n": 220,
+     "cat": "word",
+     "term": "synergy",
+     "ipa": "/ˈsɪn.ɚ.dʒi/",
+     "pos": "n.",
+     "meaning": "綜效、協同效應",
+     "usage": "本書第六習慣。商業常見 create synergies（合併後產生綜效）；形容詞 synergistic。",
+     "example": "The merger is expected to create significant cost synergies.",
+     "trans": "預期這次合併能帶來可觀的成本綜效。"
+    },
+    {
+     "n": 221,
+     "cat": "word",
+     "term": "implement",
+     "ipa": "/ˈɪm.plə.ment/",
+     "pos": "v.",
+     "meaning": "實施、執行",
+     "usage": "implement a plan / policy / system；名詞 implementation。職場高頻字。",
+     "example": "We'll implement the new policy next month.",
+     "trans": "我們下個月會實施新政策。"
+    },
+    {
+     "n": 222,
+     "cat": "word",
+     "term": "mitigate",
+     "ipa": "/ˈmɪt̬.ə.ɡeɪt/",
+     "pos": "v.",
+     "meaning": "減輕、緩和",
+     "usage": "mitigate risks / damage / impact；名詞 mitigation。比 reduce 正式。",
+     "example": "We bought insurance to mitigate the risk.",
+     "trans": "我們買保險來降低風險。"
+    },
+    {
+     "n": 223,
+     "cat": "word",
+     "term": "empower",
+     "ipa": "/ɪmˈpaʊ.ɚ/",
+     "pos": "v.",
+     "meaning": "授權、使有能力",
+     "usage": "empower sb to do sth；名詞 empowerment。",
+     "example": "We empower staff to make decisions without asking.",
+     "trans": "我們授權員工自行做決定。"
+    },
+    {
+     "n": 224,
+     "cat": "word",
+     "term": "provocative",
+     "ipa": "/prəˈvɑː.kə.t̬ɪv/",
+     "pos": "adj.",
+     "meaning": "發人深省的；挑釁的",
+     "usage": "文中正面：provocative questions＝引人思考的問題；也可能是挑釁、煽動的。動詞 provoke。",
+     "example": "She asked a provocative question that changed the debate.",
+     "trans": "她提出一個發人深省的問題，改變了討論方向。"
+    },
+    {
+     "n": 225,
+     "cat": "word",
+     "term": "elevate",
+     "ipa": "/ˈel.ə.veɪt/",
+     "pos": "v.",
+     "meaning": "提升",
+     "usage": "elevate the discussion / one's game / the brand。比 raise 正式。",
+     "example": "Good design can elevate a simple product.",
+     "trans": "好的設計能提升一個簡單產品的價值。"
+    },
+    {
+     "n": 226,
+     "cat": "word",
+     "term": "intimate",
+     "ipa": "/ˈɪn.t̬ə.mət/",
+     "pos": "adj.",
+     "meaning": "私密的、親近的",
+     "usage": "文中 intimate personal insights＝個人的深刻見解；也指親密或小而溫馨（an intimate venue）。動詞 intimate /ˈɪn.t̬ə.meɪt/＝暗示。",
+     "example": "The café has an intimate atmosphere.",
+     "trans": "這家咖啡館的氣氛溫馨。"
+    },
+    {
+     "n": 227,
+     "cat": "word",
+     "term": "immensely",
+     "ipa": "/ɪˈmens.li/",
+     "pos": "adv.",
+     "meaning": "極其、非常",
+     "usage": "immensely popular / successful / grateful；比 very 強。",
+     "example": "The app has been immensely popular with students.",
+     "trans": "這款 App 在學生間非常受歡迎。"
+    },
+    {
+     "n": 228,
+     "cat": "word",
+     "term": "nourish",
+     "ipa": "/ˈnɝː.ɪʃ/",
+     "pos": "v.",
+     "meaning": "滋養、培育",
+     "usage": "nourish the body / mind / relationships；名詞 nourishment。",
+     "example": "Reading nourishes the mind.",
+     "trans": "閱讀能滋養心靈。"
+    },
+    {
+     "n": 229,
+     "cat": "word",
+     "term": "bloom",
+     "ipa": "/bluːm/",
+     "pos": "v.",
+     "meaning": "開花；蓬勃發展",
+     "usage": "比喻成長茁壯：Their friendship bloomed. in full bloom＝盛開。",
+     "example": "Their partnership bloomed into a successful company.",
+     "trans": "他們的合作發展成一家成功的公司。"
+    },
+    {
+     "n": 230,
+     "cat": "pattern",
+     "term": "Is it…? …? Maybe it's…? No, …",
+     "ipa": "",
+     "pos": "",
+     "meaning": "是……嗎？……？還是……？不，……",
+     "usage": "連續提問再否定，引出真正答案，製造懸念。簡報開場好用（呼應 #167）。",
+     "example": "Is it the price? The design? Maybe the ads? No, it's the customer service.",
+     "trans": "是價格嗎？設計？還是廣告？不，是客服。"
+    },
+    {
+     "n": 231,
+     "cat": "pattern",
+     "term": "Put (most) simply, X is…",
+     "ipa": "",
+     "pos": "",
+     "meaning": "簡單來說，X 就是……",
+     "usage": "給定義時的開場語；近義 Simply put、In simple terms。",
+     "example": "Put simply, cash flow is the money moving in and out of a business.",
+     "trans": "簡單來說，現金流就是進出公司的錢。"
+    },
+    {
+     "n": 232,
+     "cat": "pattern",
+     "term": "It's X that allows Y to…",
+     "ipa": "",
+     "pos": "",
+     "meaning": "正是 X 讓 Y 能夠……",
+     "usage": "it's … that 強調句＋allow sb/sth to V。",
+     "example": "It's our people that allow us to grow so fast.",
+     "trans": "正是我們的人才讓公司能成長得這麼快。"
+    },
+    {
+     "n": 233,
+     "cat": "pattern",
+     "term": "Like X, the most … are ones where…",
+     "ipa": "",
+     "pos": "",
+     "meaning": "就像 X 一樣，最……的是那些……的",
+     "usage": "以類比收尾點題；ones 代替前面的名詞。",
+     "example": "Like a good recipe, the best teams are ones where every ingredient matters.",
+     "trans": "就像好食譜一樣，最好的團隊是每個成員都重要的團隊。"
+    },
+    {
+     "n": 234,
+     "cat": "pattern",
+     "term": "When X is put into practice, people will be more likely to…",
+     "ipa": "",
+     "pos": "",
+     "meaning": "當 X 付諸實行時，人們會更可能……",
+     "usage": "be more likely to V＝更有可能；適合說明政策或做法的效果。",
+     "example": "When flexible hours are put into practice, people will be more likely to stay.",
+     "trans": "實施彈性工時後，員工會更願意留下來。"
+    }
+   ]
   }
  ]
 }
