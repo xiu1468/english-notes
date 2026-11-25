@@ -24,6 +24,7 @@ for f in sorted((ROOT / 'books').glob('*.json')):
         for n in seg.get('top', []):
             if n not in nums: errors.append(f'{f.name} seg {seg["seg"]}: top #{n} not in segment')
     index.append({'id': b['id'], 'title': b['title'], 'created': b.get('created', ''),
+                  'added': b.get('added', b.get('created', '')),
                   'file': f.name, 'segments': len(b['segments']), 'count': expect - 1})
 
 if errors:

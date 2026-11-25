@@ -41,6 +41,7 @@ main{max-width:720px;margin:0 auto;padding:12px 12px 120px}
 .tools{display:flex;gap:8px;flex-wrap:wrap;margin:4px 0 12px}
 .chip{border:1px solid var(--line);background:var(--card);border-radius:999px;padding:5px 12px;font-size:14px;cursor:pointer}
 .chip.on{background:var(--accent);border-color:var(--accent);color:#fff}
+.sortlbl{font-size:13px;color:var(--muted);align-self:center;margin-right:2px}
 .search{width:100%;border:1px solid var(--line);background:var(--card);color:var(--fg);border-radius:10px;padding:9px 12px;font:inherit;margin-bottom:8px}
 
 /* segments & items */
@@ -130,7 +131,25 @@ main{max-width:720px;margin:0 auto;padding:12px 12px 120px}
     document.title = '語塊筆記';
     main.replaceChildren();
     if(!books.length){ main.append(el('p','empty','還沒有書')); return; }
-    [...books].sort((a,b) => (b.created||'').localeCompare(a.created||'')).forEach(b => {
+    const srt = store.get('vocabShelfSort', {by:'date', dir:'desc'});
+    const tools = el('div','tools');
+    tools.append(el('span','sortlbl','排序'));
+    [['date','新增日期'],['name','名稱']].forEach(([k,label]) => {
+      const c = el('button','chip' + (srt.by===k?' on':''), label);
+      c.onclick = () => { if(srt.by !== k){ srt.by = k; srt.dir = k==='date' ? 'desc' : 'asc'; store.set('vocabShelfSort', srt); showShelf(); } };
+      tools.append(c);
+    });
+    const dirLabel = srt.by==='date' ? (srt.dir==='desc' ? '↓ 新到舊' : '↑ 舊到新') : (srt.dir==='asc' ? '↑ A→Z' : '↓ Z→A');
+    const d = el('button','chip', dirLabel); d.setAttribute('aria-label','切換升冪／降冪');
+    d.onclick = () => { srt.dir = srt.dir==='asc' ? 'desc' : 'asc'; store.set('vocabShelfSort', srt); showShelf(); };
+    tools.append(d);
+    main.append(tools);
+    const coll = new Intl.Collator('zh-Hant', {numeric:true, sensitivity:'base'});
+    const when = b => b.added || b.created || '';
+    const cmp = srt.by==='name'
+      ? (a,b) => coll.compare(titleOf(a), titleOf(b)) || when(a).localeCompare(when(b))
+      : (a,b) => when(a).localeCompare(when(b)) || coll.compare(titleOf(a), titleOf(b));
+    [...books].sort((a,b) => srt.dir==='asc' ? cmp(a,b) : cmp(b,a)).forEach(b => {
       const btn = el('button','book');
       btn.append(el('div','t', titleOf(b)));
       const n = store.get('vocabSel:' + b.id, []).length;

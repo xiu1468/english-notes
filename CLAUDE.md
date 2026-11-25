@@ -9,7 +9,7 @@
 
 | 檔案 | 用途 |
 |---|---|
-| `index.html` | 整個網站（純 HTML/JS，無依賴）。書架 → 書 → 分段列表；可勾選、搜尋、篩選、展開，底部按鈕複製勾選的編號（如 `2, 4, 9, 13`）。 |
+| `index.html` | 整個網站（純 HTML/JS，無依賴）。書架（可依新增日期／名稱排序，升或降，選擇存在 localStorage `vocabShelfSort`）→ 書 → 分段列表；可勾選、搜尋、篩選、展開，底部按鈕複製勾選的編號（如 `2, 4, 9, 13`）。 |
 | `books/<YYYY-MM-DD>-<slug>.json` | 一本書（＝一個對話）一個檔。 |
 | `books.json` | 書架索引，由 `tools/vocab_index.py` 產生，不要手改。 |
 | `tools/vocab_index.py` | 檢查每本書編號連續、欄位齊全，並重建 `books.json`。 |
@@ -17,13 +17,14 @@
 ## 資料格式
 
 ```
-{id, title, created, segments: [{seg, top: [推薦編號], items: [
+{id, title, created, added, segments: [{seg, top: [推薦編號], items: [
   {n, cat, term, ipa, pos, meaning, usage, example, trans}
 ]}]}
 ```
 - `cat`：`chunk`（語塊與搭配詞）、`word`（進階單字）、`pattern`（句型）
 - 語塊的 `ipa` 只標關鍵字，寫成 `swoop /swuːp/`；句型的 `ipa`、`pos` 留空字串
 - 編號整本書連續，不重來
+- `added`：新書建立時的完整時間（ISO 8601，含 `+08:00`），書架「新增日期」排序用，同一天新增的書才分得出先後
 
 ## 新增一段
 
