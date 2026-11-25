@@ -2656,6 +2656,423 @@
      "trans": "實施彈性工時後，員工會更願意留下來。"
     }
    ]
+  },
+  {
+   "seg": 9,
+   "top": [
+    239,
+    242,
+    252
+   ],
+   "items": [
+    {
+     "n": 235,
+     "cat": "chunk",
+     "term": "head into / to",
+     "ipa": "",
+     "pos": "v. phr.",
+     "meaning": "前往",
+     "usage": "head 當動詞＝朝……去：head into town / head to the office / head home（不加 to）。",
+     "example": "I'm heading to the office now.",
+     "trans": "我現在正要去辦公室。"
+    },
+    {
+     "n": 236,
+     "cat": "chunk",
+     "term": "fell trees",
+     "ipa": "fell /fel/",
+     "pos": "v. phr.",
+     "meaning": "砍伐樹木",
+     "usage": "fell 是及物動詞（felled, felled），與 fall 的過去式 fell 同形，易混淆。近義 cut down。",
+     "example": "Hundreds of trees were felled to build the road.",
+     "trans": "為了修路砍了數百棵樹。"
+    },
+    {
+     "n": 237,
+     "cat": "chunk",
+     "term": "bring down",
+     "ipa": "",
+     "pos": "phr. v.",
+     "meaning": "弄倒；降低；推翻",
+     "usage": "bring down a tree / prices / costs / a government。職場常用：bring down costs。",
+     "example": "We need to bring down shipping costs.",
+     "trans": "我們需要降低運費。"
+    },
+    {
+     "n": 238,
+     "cat": "chunk",
+     "term": "be hard at work",
+     "ipa": "",
+     "pos": "v. phr.",
+     "meaning": "正在努力工作",
+     "usage": "描述進行中的忙碌狀態：The team is hard at work on the new release.",
+     "example": "The engineers are hard at work on the next update.",
+     "trans": "工程師們正忙著做下一次更新。"
+    },
+    {
+     "n": 239,
+     "cat": "chunk",
+     "term": "burn out",
+     "ipa": "",
+     "pos": "phr. v.",
+     "meaning": "精疲力竭、過勞",
+     "usage": "名詞 burnout（職業倦怠）；形容詞 burned-out / burnt-out。",
+     "example": "If you never take a vacation, you'll burn out.",
+     "trans": "如果從不休假，你會過勞。"
+    },
+    {
+     "n": 240,
+     "cat": "chunk",
+     "term": "make (the) time to V / for N",
+     "ipa": "",
+     "pos": "v. phr.",
+     "meaning": "撥出時間做……",
+     "usage": "強調刻意安排時間，比 have time 更主動：make time for family。",
+     "example": "No matter how busy you are, make time for exercise.",
+     "trans": "不管多忙，都要撥時間運動。"
+    },
+    {
+     "n": 241,
+     "cat": "chunk",
+     "term": "strive to V / for N",
+     "ipa": "strive /straɪv/",
+     "pos": "v. phr.",
+     "meaning": "努力爭取、力求",
+     "usage": "比 try 正式、強烈：strive for excellence / strive to improve。過去式 strove / strived。",
+     "example": "We strive to answer every email within 24 hours.",
+     "trans": "我們力求在 24 小時內回覆每封信。"
+    },
+    {
+     "n": 242,
+     "cat": "chunk",
+     "term": "get caught up in",
+     "ipa": "",
+     "pos": "v. phr.",
+     "meaning": "陷入、被……捲入而分心",
+     "usage": "get caught up in work / details / the moment＝過度投入而忽略其他。",
+     "example": "Don't get caught up in the details; focus on the big picture.",
+     "trans": "別陷在細節裡，要看大局。"
+    },
+    {
+     "n": 243,
+     "cat": "chunk",
+     "term": "neglect to V",
+     "ipa": "neglect /nɪˈɡlekt/",
+     "pos": "v. phr.",
+     "meaning": "忽略、忘了去做",
+     "usage": "正式，常指疏忽應做的事；neglect + N＝疏於照顧（neglect one's health）。",
+     "example": "He neglected to mention that the deadline had changed.",
+     "trans": "他忘了提截止日期已經改了。"
+    },
+    {
+     "n": 244,
+     "cat": "chunk",
+     "term": "allocate time and energy (to)",
+     "ipa": "allocate /ˈæl.ə.keɪt/",
+     "pos": "v. phr.",
+     "meaning": "分配時間和精力",
+     "usage": "allocate resources / budget / funds to sth；名詞 allocation。職場高頻。",
+     "example": "We allocated more budget to digital marketing this year.",
+     "trans": "今年我們把更多預算分配給數位行銷。"
+    },
+    {
+     "n": 245,
+     "cat": "chunk",
+     "term": "over the long term",
+     "ipa": "",
+     "pos": "phr.",
+     "meaning": "長期而言",
+     "usage": "同 in the long term（#22 的反義）；形容詞 long-term。",
+     "example": "Investing in training pays off over the long term.",
+     "trans": "長期而言，投資培訓是值得的。"
+    },
+    {
+     "n": 246,
+     "cat": "chunk",
+     "term": "get in touch with (oneself)",
+     "ipa": "",
+     "pos": "v. phr.",
+     "meaning": "與（自己內心）連結；聯絡",
+     "usage": "get in touch with sb＝聯絡某人（I'll get in touch next week.）；in touch with one's feelings＝了解自己的感受。",
+     "example": "Journaling helps me get in touch with my feelings.",
+     "trans": "寫日記幫助我了解自己的感受。"
+    },
+    {
+     "n": 247,
+     "cat": "chunk",
+     "term": "keep sb centered",
+     "ipa": "",
+     "pos": "v. phr.",
+     "meaning": "讓人保持內心平穩",
+     "usage": "centered＝情緒穩定、專注；近義 grounded、balanced。",
+     "example": "Morning walks keep me centered before a busy day.",
+     "trans": "晨間散步讓我在忙碌的一天前保持平靜。"
+    },
+    {
+     "n": 248,
+     "cat": "chunk",
+     "term": "stay sharp",
+     "ipa": "",
+     "pos": "v. phr.",
+     "meaning": "保持敏銳",
+     "usage": "sharp＝頭腦靈活；也可說 keep your mind sharp。呼應寓言中變鈍（dull，#258）的斧頭。",
+     "example": "Puzzles help older people stay sharp.",
+     "trans": "解謎有助長者保持頭腦敏銳。"
+    },
+    {
+     "n": 249,
+     "cat": "chunk",
+     "term": "pick up a language",
+     "ipa": "",
+     "pos": "v. phr.",
+     "meaning": "（自然地）學會一種語言",
+     "usage": "pick up＝不經正式學習就學會：pick up a skill / an accent / a habit。",
+     "example": "She picked up Japanese while working in Tokyo.",
+     "trans": "她在東京工作時學會了日文。"
+    },
+    {
+     "n": 250,
+     "cat": "chunk",
+     "term": "check in (with sb)",
+     "ipa": "",
+     "pos": "phr. v.",
+     "meaning": "（定期）關心、聯繫",
+     "usage": "職場常用：Let's check in next week.；名詞 check-in（簡短進度會議）。另義飯店、機場報到。",
+     "example": "I check in with my team every Monday morning.",
+     "trans": "我每週一早上會和團隊確認近況。"
+    },
+    {
+     "n": 251,
+     "cat": "chunk",
+     "term": "make a commitment to",
+     "ipa": "",
+     "pos": "v. phr.",
+     "meaning": "承諾、下定決心",
+     "usage": "to 是介係詞，後接 N / V-ing：make a commitment to improving quality。",
+     "example": "The company made a commitment to reducing waste.",
+     "trans": "公司承諾減少浪費。"
+    },
+    {
+     "n": 252,
+     "cat": "chunk",
+     "term": "reap the rewards",
+     "ipa": "reap /riːp/",
+     "pos": "v. phr.",
+     "meaning": "收穫成果、得到回報",
+     "usage": "reap 原指收割；reap the benefits 亦常見。諺語 You reap what you sow.（種瓜得瓜）。",
+     "example": "Stick with it, and you'll reap the rewards.",
+     "trans": "堅持下去，你就會得到回報。"
+    },
+    {
+     "n": 253,
+     "cat": "chunk",
+     "term": "firmly in place",
+     "ipa": "",
+     "pos": "phr.",
+     "meaning": "穩固到位、已確立",
+     "usage": "have sth in place＝已經建立好：have a plan / system in place。firmly 加強語氣。",
+     "example": "With a good system firmly in place, the team runs smoothly.",
+     "trans": "有了穩固的制度，團隊運作順暢。"
+    },
+    {
+     "n": 254,
+     "cat": "word",
+     "term": "industrious",
+     "ipa": "/ɪnˈdʌs.tri.əs/",
+     "pos": "adj.",
+     "meaning": "勤奮的",
+     "usage": "正式；近義 hardworking、diligent。易混淆 industrial（工業的）。",
+     "example": "She's an industrious student who never misses a class.",
+     "trans": "她是個勤奮的學生，從不缺課。"
+    },
+    {
+     "n": 255,
+     "cat": "word",
+     "term": "lumberjack",
+     "ipa": "/ˈlʌm.bɚ.dʒæk/",
+     "pos": "n.",
+     "meaning": "伐木工人",
+     "usage": "lumber（美式）＝木材；近義 logger。",
+     "example": "The lumberjack sharpened his ax every morning.",
+     "trans": "那名伐木工人每天早上都會磨斧頭。"
+    },
+    {
+     "n": 256,
+     "cat": "word",
+     "term": "topple",
+     "ipa": "/ˈtɑː.pəl/",
+     "pos": "v.",
+     "meaning": "推倒；倒下；推翻",
+     "usage": "topple a tree / statue / government；也可不及物：The vase toppled over.",
+     "example": "The scandal toppled the CEO.",
+     "trans": "這起醜聞讓執行長下台。"
+    },
+    {
+     "n": 257,
+     "cat": "word",
+     "term": "sleek",
+     "ipa": "/sliːk/",
+     "pos": "adj.",
+     "meaning": "光滑的、線條流暢的",
+     "usage": "常形容設計：a sleek design / car / phone。",
+     "example": "The new laptop has a sleek, minimalist design.",
+     "trans": "新筆電設計簡約流暢。"
+    },
+    {
+     "n": 258,
+     "cat": "word",
+     "term": "dull",
+     "ipa": "/dʌl/",
+     "pos": "adj.",
+     "meaning": "鈍的；無聊的；暗淡的",
+     "usage": "文中指刀斧變鈍（反義 sharp）；也常指無聊：a dull meeting。",
+     "example": "The knife is too dull to cut tomatoes.",
+     "trans": "這把刀鈍到切不了番茄。"
+    },
+    {
+     "n": 259,
+     "cat": "word",
+     "term": "parable",
+     "ipa": "/ˈper.ə.bəl/",
+     "pos": "n.",
+     "meaning": "寓言、比喻故事",
+     "usage": "帶道德寓意的短故事；近義 fable（多以動物為角色）。",
+     "example": "The story is a parable about greed.",
+     "trans": "這個故事是關於貪婪的寓言。"
+    },
+    {
+     "n": 260,
+     "cat": "word",
+     "term": "driven",
+     "ipa": "/ˈdrɪv.ən/",
+     "pos": "adj.",
+     "meaning": "有幹勁的、積極進取的",
+     "usage": "文中較少見的意思：形容人很有企圖心；data-driven＝以數據為導向。",
+     "example": "She's a driven professional who sets high goals.",
+     "trans": "她是很有企圖心、目標設很高的專業人士。"
+    },
+    {
+     "n": 261,
+     "cat": "word",
+     "term": "renewal",
+     "ipa": "/rɪˈnuː.əl/",
+     "pos": "n.",
+     "meaning": "更新、恢復活力",
+     "usage": "本書第七習慣：rest and renewal。也指合約續約：contract renewal。",
+     "example": "Our contract is up for renewal in March.",
+     "trans": "我們的合約三月要續約。"
+    },
+    {
+     "n": 262,
+     "cat": "word",
+     "term": "oversight",
+     "ipa": "/ˈoʊ.vɚ.saɪt/",
+     "pos": "n.",
+     "meaning": "疏忽；監督",
+     "usage": "兩個相反意思：an oversight＝疏忽遺漏；oversight＝監管（regulatory oversight）。",
+     "example": "The missing data was an oversight on my part.",
+     "trans": "資料遺漏是我的疏忽。"
+    },
+    {
+     "n": 263,
+     "cat": "word",
+     "term": "endurance",
+     "ipa": "/ɪnˈdʊr.əns/",
+     "pos": "n.",
+     "meaning": "耐力",
+     "usage": "physical / mental endurance；動詞 endure（忍受）。",
+     "example": "Marathon training builds endurance.",
+     "trans": "馬拉松訓練能鍛鍊耐力。"
+    },
+    {
+     "n": 264,
+     "cat": "word",
+     "term": "contemplation",
+     "ipa": "/ˌkɑːn.t̬əmˈpleɪ.ʃən/",
+     "pos": "n.",
+     "meaning": "沉思、冥想",
+     "usage": "動詞 contemplate＝仔細考慮（contemplate quitting）。",
+     "example": "He sat in quiet contemplation by the lake.",
+     "trans": "他靜靜地坐在湖邊沉思。"
+    },
+    {
+     "n": 265,
+     "cat": "word",
+     "term": "adversity",
+     "ipa": "/ədˈvɝː.sə.t̬i/",
+     "pos": "n.",
+     "meaning": "逆境",
+     "usage": "face / overcome adversity；易混淆 #160 adversary（敵手）。",
+     "example": "She stayed positive in the face of adversity.",
+     "trans": "她在逆境中仍保持樂觀。"
+    },
+    {
+     "n": 266,
+     "cat": "word",
+     "term": "enrich",
+     "ipa": "/ɪnˈrɪtʃ/",
+     "pos": "v.",
+     "meaning": "使豐富、充實",
+     "usage": "enrich one's life / experience / knowledge；名詞 enrichment。",
+     "example": "Traveling has greatly enriched my life.",
+     "trans": "旅行大大豐富了我的人生。"
+    },
+    {
+     "n": 267,
+     "cat": "pattern",
+     "term": "Picture yourself as…",
+     "ipa": "",
+     "pos": "",
+     "meaning": "想像你自己是……",
+     "usage": "picture 當動詞＝想像，與 #41、#102 的 Imagine 開場法同類。也可 Picture this:…",
+     "example": "Picture yourself as the customer. What would you want?",
+     "trans": "把自己想像成顧客，你會想要什麼？"
+    },
+    {
+     "n": 268,
+     "cat": "pattern",
+     "term": "What's gone wrong?",
+     "ipa": "",
+     "pos": "",
+     "meaning": "哪裡出錯了？",
+     "usage": "現在完成式強調「到現在已出問題」，帶出原因分析。也可 What went wrong?（過去單一事件）。",
+     "example": "Sales dropped 20% this quarter. What's gone wrong?",
+     "trans": "這季業績下滑 20%，出了什麼問題？"
+    },
+    {
+     "n": 269,
+     "cat": "pattern",
+     "term": "Even the most … will eventually… if they don't…",
+     "ipa": "",
+     "pos": "",
+     "meaning": "即使最……的人，如果不……，終究也會……",
+     "usage": "even the most + adj. 強調連最強的都不例外；用於提出警告。",
+     "example": "Even the most talented teams will eventually fail if they don't communicate.",
+     "trans": "即使最有才華的團隊，如果不溝通，終究也會失敗。"
+    },
+    {
+     "n": 270,
+     "cat": "pattern",
+     "term": "X doesn't mean you have to… Just the opposite, in fact –…",
+     "ipa": "",
+     "pos": "",
+     "meaning": "X 不代表你必須……，事實上正好相反——……",
+     "usage": "先破除誤解，再用 Just the opposite 翻轉。也可說 Quite the opposite.",
+     "example": "Being a leader doesn't mean you have to know everything. Just the opposite, in fact – good leaders ask questions.",
+     "trans": "當領導者不代表你得什麼都懂，事實上正好相反——好的領導者會發問。"
+    },
+    {
+     "n": 271,
+     "cat": "pattern",
+     "term": "With X firmly in place, you'll…",
+     "ipa": "",
+     "pos": "",
+     "meaning": "有了穩固的 X，你就能……",
+     "usage": "With + N + 補語（in place）表條件或背景，作為結尾總結很有力。",
+     "example": "With these habits firmly in place, you'll handle any challenge.",
+     "trans": "有了這些穩固的習慣，你就能應對任何挑戰。"
+    }
+   ]
   }
  ]
 }
