@@ -1208,6 +1208,357 @@
      "trans": "運動真正的好處要持之以恆才會出現。"
     }
    ]
+  },
+  {
+   "seg": 5,
+   "top": [
+    121,
+    129,
+    135
+   ],
+   "items": [
+    {
+     "n": 107,
+     "cat": "chunk",
+     "term": "the printer's jammed",
+     "ipa": "jammed /dʒæmd/",
+     "pos": "phr.",
+     "meaning": "印表機卡紙了",
+     "usage": "jam＝卡住：a paper jam（卡紙）、traffic jam（塞車）、The door is jammed.。口語省略 is → 's。",
+     "example": "Sorry I'm late — the printer jammed again.",
+     "trans": "抱歉遲到了，印表機又卡紙。"
+    },
+    {
+     "n": 108,
+     "cat": "chunk",
+     "term": "knock at / on sb's door",
+     "ipa": "",
+     "pos": "v. phr.",
+     "meaning": "敲某人的門",
+     "usage": "on 和 at 都可，on 較常見。比喻：Opportunity is knocking at your door.（機會來敲門）。",
+     "example": "Someone's knocking on the door — can you get it?",
+     "trans": "有人在敲門，你可以去開嗎？"
+    },
+    {
+     "n": 109,
+     "cat": "chunk",
+     "term": "put first things first",
+     "ipa": "",
+     "pos": "idiom",
+     "meaning": "要事第一、先做最重要的事",
+     "usage": "本書第三個習慣。近義 first things first（口語：先處理要緊的）。",
+     "example": "First things first: let's confirm the budget before we plan the event.",
+     "trans": "先做要緊的事：規劃活動前先確認預算。"
+    },
+    {
+     "n": 110,
+     "cat": "chunk",
+     "term": "put differently",
+     "ipa": "",
+     "pos": "phr.",
+     "meaning": "換句話說",
+     "usage": "插入語，用來換個方式解釋：Put differently, …；近義 in other words、to put it another way。文中 Or put differently: which is… 較口語。",
+     "example": "Sales are flat. Put differently, we're not growing.",
+     "trans": "業績持平，換句話說，我們沒有成長。"
+    },
+    {
+     "n": 111,
+     "cat": "chunk",
+     "term": "in advance",
+     "ipa": "",
+     "pos": "phr.",
+     "meaning": "事先、提前",
+     "usage": "與 #91 ahead of time 同義；in advance of + 事件＝在……之前。thanks in advance＝先謝了（信件結尾）。",
+     "example": "Please book the meeting room in advance.",
+     "trans": "請提前預約會議室。"
+    },
+    {
+     "n": 112,
+     "cat": "chunk",
+     "term": "a two-by-two grid",
+     "ipa": "",
+     "pos": "n. phr.",
+     "meaning": "2×2 的方格（四象限）",
+     "usage": "two-by-two 當形容詞用連字號。顧問、簡報常見 a 2x2 matrix。grid＝格子；power grid＝電網。",
+     "example": "Let's map our options on a two-by-two grid.",
+     "trans": "我們把選項畫在一個 2×2 的方格上。"
+    },
+    {
+     "n": 113,
+     "cat": "chunk",
+     "term": "divide up",
+     "ipa": "",
+     "pos": "phr. v.",
+     "meaning": "分配、劃分",
+     "usage": "divide up the work / tasks / money among sb；up 帶「分完」的意味。近義 split up。",
+     "example": "Let's divide up the tasks so everyone knows what to do.",
+     "trans": "我們分配一下工作，讓大家知道要做什麼。"
+    },
+    {
+     "n": 114,
+     "cat": "chunk",
+     "term": "focus one's efforts (on)",
+     "ipa": "",
+     "pos": "v. phr.",
+     "meaning": "集中心力（於）",
+     "usage": "efforts 用複數表示各方面的努力；近義 #54 direct one's energy toward。",
+     "example": "We should focus our efforts on our biggest clients.",
+     "trans": "我們應該集中心力在最大的客戶上。"
+    },
+    {
+     "n": 115,
+     "cat": "chunk",
+     "term": "deserve special attention",
+     "ipa": "",
+     "pos": "v. phr.",
+     "meaning": "值得特別注意",
+     "usage": "deserve + N：deserve credit / a raise / a break。deserve 後不加介係詞。",
+     "example": "This section of the report deserves special attention.",
+     "trans": "報告的這個部分值得特別注意。"
+    },
+    {
+     "n": 116,
+     "cat": "chunk",
+     "term": "come with",
+     "ipa": "",
+     "pos": "phr. v.",
+     "meaning": "附帶、伴隨",
+     "usage": "come with benefits / risks / a warranty。文中 come with the biggest payoffs＝帶來最大回報。",
+     "example": "The new role comes with more responsibility.",
+     "trans": "這個新職位伴隨更多責任。"
+    },
+    {
+     "n": 117,
+     "cat": "chunk",
+     "term": "(efficiency) payoffs",
+     "ipa": "payoff /ˈpeɪ.ɑːf/",
+     "pos": "n. phr.",
+     "meaning": "（效率上的）回報、成果",
+     "usage": "payoff＝努力後的回報；動詞片語 pay off＝有回報（Hard work pays off.）。",
+     "example": "Training new staff takes time, but the payoff is huge.",
+     "trans": "培訓新人很花時間，但回報很大。"
+    },
+    {
+     "n": 118,
+     "cat": "chunk",
+     "term": "address sth early on",
+     "ipa": "",
+     "pos": "v. phr.",
+     "meaning": "及早處理某事",
+     "usage": "address 當動詞＝處理、應對（address a problem / concern / issue）。early on＝在初期。",
+     "example": "If we address these risks early on, we'll avoid delays later.",
+     "trans": "如果及早處理這些風險，之後就能避免延誤。"
+    },
+    {
+     "n": 119,
+     "cat": "chunk",
+     "term": "prevent A from V-ing",
+     "ipa": "",
+     "pos": "v. phr.",
+     "meaning": "防止 A 做……",
+     "usage": "同義 stop / keep A from V-ing。prevent 比 stop 正式。",
+     "example": "Regular backups prevent us from losing important data.",
+     "trans": "定期備份能防止我們遺失重要資料。"
+    },
+    {
+     "n": 120,
+     "cat": "chunk",
+     "term": "personal touch",
+     "ipa": "",
+     "pos": "n. phr.",
+     "meaning": "個人親自處理的細節、人情味",
+     "usage": "add a personal touch＝加點個人風格或心意。文中 tasks that don't need your personal touch＝不必親自處理的事。",
+     "example": "A handwritten note adds a personal touch to the gift.",
+     "trans": "手寫卡片讓禮物多了份心意。"
+    },
+    {
+     "n": 121,
+     "cat": "chunk",
+     "term": "when it comes to",
+     "ipa": "",
+     "pos": "phr.",
+     "meaning": "說到、在……方面",
+     "usage": "後接名詞或 V-ing：When it comes to cooking, he's an expert. 注意 to 是介係詞。",
+     "example": "When it comes to negotiating, she's the best on our team.",
+     "trans": "說到談判，她是我們團隊最強的。"
+    },
+    {
+     "n": 122,
+     "cat": "word",
+     "term": "tackle",
+     "ipa": "/ˈtæk.əl/",
+     "pos": "v.",
+     "meaning": "處理、著手解決",
+     "usage": "tackle a problem / task / issue；比 deal with 更有「主動出擊」的語感。原意（運動）擒抱。",
+     "example": "Let's tackle the hardest task first.",
+     "trans": "我們先處理最困難的任務吧。"
+    },
+    {
+     "n": 123,
+     "cat": "word",
+     "term": "prioritize",
+     "ipa": "/praɪˈɔːr.ə.taɪz/",
+     "pos": "v.",
+     "meaning": "排定優先順序；優先處理",
+     "usage": "prioritize tasks / safety；名詞 priority（top priority）。英式拼 prioritise。",
+     "example": "You need to prioritize your health over work.",
+     "trans": "你要把健康擺在工作前面。"
+    },
+    {
+     "n": 124,
+     "cat": "word",
+     "term": "urgency",
+     "ipa": "/ˈɝː.dʒən.si/",
+     "pos": "n.",
+     "meaning": "緊急、迫切",
+     "usage": "a sense of urgency（急迫感）、as a matter of urgency。形容詞 urgent。",
+     "example": "There's no sense of urgency on this team.",
+     "trans": "這個團隊沒有急迫感。"
+    },
+    {
+     "n": 125,
+     "cat": "word",
+     "term": "matrix",
+     "ipa": "/ˈmeɪ.trɪks/",
+     "pos": "n.",
+     "meaning": "矩陣、表格框架",
+     "usage": "複數 matrices /ˈmeɪ.trə.siːz/ 或 matrixes。商業常見 decision matrix、priority matrix。",
+     "example": "We used a decision matrix to compare the vendors.",
+     "trans": "我們用決策矩陣來比較供應商。"
+    },
+    {
+     "n": 126,
+     "cat": "word",
+     "term": "quadrant",
+     "ipa": "/ˈkwɑː.drənt/",
+     "pos": "n.",
+     "meaning": "象限",
+     "usage": "quad- 表「四」。the top-right quadrant＝右上象限（簡報分析常見）。",
+     "example": "Our product sits in the high-quality, low-cost quadrant.",
+     "trans": "我們的產品落在高品質低成本的象限。"
+    },
+    {
+     "n": 127,
+     "cat": "word",
+     "term": "overlooked",
+     "ipa": "/ˌoʊ.vɚˈlʊkt/",
+     "pos": "adj.",
+     "meaning": "被忽略的",
+     "usage": "動詞 overlook＝忽略、沒注意到；另義「俯瞰」（a room overlooking the sea）。易混淆 oversee（監督）。",
+     "example": "Customer service is often overlooked by startups.",
+     "trans": "客服常被新創公司忽略。"
+    },
+    {
+     "n": 128,
+     "cat": "word",
+     "term": "pressing",
+     "ipa": "/ˈpres.ɪŋ/",
+     "pos": "adj.",
+     "meaning": "緊迫的、急需處理的",
+     "usage": "a pressing issue / need / concern。近義 urgent；文中 don't feel as pressing＝感覺沒那麼急。",
+     "example": "We have more pressing matters to discuss.",
+     "trans": "我們有更急迫的事要討論。"
+    },
+    {
+     "n": 129,
+     "cat": "word",
+     "term": "delegate",
+     "ipa": "/ˈdel.ə.ɡeɪt/",
+     "pos": "v.",
+     "meaning": "授權、委派（工作）",
+     "usage": "delegate tasks to sb；名詞 delegation。名詞 delegate /ˈdel.ə.ɡət/＝代表（尾音不同）。",
+     "example": "Good managers know when to delegate.",
+     "trans": "好主管知道什麼時候該授權。"
+    },
+    {
+     "n": 130,
+     "cat": "word",
+     "term": "micromanage",
+     "ipa": "/ˌmaɪ.kroʊˈmæn.ɪdʒ/",
+     "pos": "v.",
+     "meaning": "事必躬親地管理、管太細",
+     "usage": "貶義；名詞 micromanagement、micromanager。",
+     "example": "Nobody likes a boss who micromanages every email.",
+     "trans": "沒人喜歡連每封信都要管的老闆。"
+    },
+    {
+     "n": 131,
+     "cat": "word",
+     "term": "solitaire",
+     "ipa": "/ˈsɑː.lə.ter/",
+     "pos": "n.",
+     "meaning": "（單人）接龍紙牌遊戲",
+     "usage": "play solitaire；也指單顆鑲嵌的寶石戒指。英式稱紙牌遊戲為 patience。",
+     "example": "He spent the afternoon playing solitaire on his laptop.",
+     "trans": "他整個下午都在筆電上玩接龍。"
+    },
+    {
+     "n": 132,
+     "cat": "pattern",
+     "term": "Here to help is + N.",
+     "ipa": "",
+     "pos": "",
+     "meaning": "來幫忙的是……（倒裝）",
+     "usage": "把 Here to help 移到句首、主詞放後面，製造「登場」效果。類似 Here comes the bus. / Joining us today is…（主持介紹來賓）。",
+     "example": "Joining us today is our new head of marketing, Amy Lin.",
+     "trans": "今天加入我們的是新任行銷主管 Amy Lin。"
+    },
+    {
+     "n": 133,
+     "cat": "pattern",
+     "term": "Some favor…; others say (that)…",
+     "ipa": "",
+     "pos": "",
+     "meaning": "有人偏好……；有人則認為……",
+     "usage": "對比兩派做法的簡潔句型（比 #71 少一組）。favor + N / V-ing＝偏好、支持。之後常接 But the real secret is…",
+     "example": "Some favor working from home; others say the office is more productive.",
+     "trans": "有人偏好在家工作，有人則認為辦公室效率更高。"
+    },
+    {
+     "n": 134,
+     "cat": "pattern",
+     "term": "Once you've…, it's easier to…",
+     "ipa": "",
+     "pos": "",
+     "meaning": "一旦你……，就比較容易……",
+     "usage": "Once + 現在完成式表「一旦完成某步驟」，後句說明好處。適合教學、說明流程。",
+     "example": "Once you've set clear goals, it's easier to say no to distractions.",
+     "trans": "一旦設定清楚的目標，就比較容易拒絕干擾。"
+    },
+    {
+     "n": 135,
+     "cat": "pattern",
+     "term": "While X is important, it's really Y that…",
+     "ipa": "",
+     "pos": "",
+     "meaning": "雖然 X 重要，但真正……的是 Y",
+     "usage": "While 讓步＋ it's … that 強調句，凸顯重點。結合 #42 的讓步法。",
+     "example": "While price is important, it's really service that keeps customers coming back.",
+     "trans": "價格雖然重要，但真正讓顧客回流的是服務。"
+    },
+    {
+     "n": 136,
+     "cat": "pattern",
+     "term": "Just be sure (not) to…",
+     "ipa": "",
+     "pos": "",
+     "meaning": "只要記得（不要）……",
+     "usage": "溫和提醒的口語句型，比 You must 柔和。也可說 Just make sure (that)…",
+     "example": "Feel free to borrow my car. Just be sure to fill up the tank.",
+     "trans": "車儘管借去，只要記得加滿油。"
+    },
+    {
+     "n": 137,
+     "cat": "pattern",
+     "term": "Don't…; instead, …",
+     "ipa": "",
+     "pos": "",
+     "meaning": "不要……，而是……",
+     "usage": "先否定錯誤做法，再給正確方向，簡潔有力，適合給建議。",
+     "example": "Don't just list problems; instead, suggest a solution.",
+     "trans": "不要只列問題，而是提出解決方案。"
+    }
+   ]
   }
  ]
 }
