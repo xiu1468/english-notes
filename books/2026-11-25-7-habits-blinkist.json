@@ -846,6 +846,368 @@
      "trans": "成本持續上升，這就帶出了定價的問題。"
     }
    ]
+  },
+  {
+   "seg": 4,
+   "top": [
+    81,
+    90,
+    103
+   ],
+   "items": [
+    {
+     "n": 75,
+     "cat": "chunk",
+     "term": "pass away",
+     "ipa": "",
+     "pos": "phr. v.",
+     "meaning": "過世",
+     "usage": "die 的委婉說法，較禮貌；相關 passing（n.）：after his passing。",
+     "example": "Her grandfather passed away peacefully last year.",
+     "trans": "她的祖父去年安詳離世。"
+    },
+    {
+     "n": 76,
+     "cat": "chunk",
+     "term": "take turns (V-ing)",
+     "ipa": "",
+     "pos": "v. phr.",
+     "meaning": "輪流（做）",
+     "usage": "take turns + V-ing 或 take turns to V；in turn＝依序。",
+     "example": "We take turns leading the weekly meeting.",
+     "trans": "我們輪流主持每週會議。"
+    },
+    {
+     "n": 77,
+     "cat": "chunk",
+     "term": "deliver a eulogy",
+     "ipa": "eulogy /ˈjuː.lə.dʒi/",
+     "pos": "v. phr.",
+     "meaning": "致悼詞",
+     "usage": "deliver 搭配演說類：deliver a speech / a presentation / a keynote。eulogy 開頭唸 /juː/。",
+     "example": "His best friend delivered a moving eulogy at the funeral.",
+     "trans": "他最好的朋友在葬禮上致了感人的悼詞。"
+    },
+    {
+     "n": 78,
+     "cat": "chunk",
+     "term": "melt away",
+     "ipa": "",
+     "pos": "phr. v.",
+     "meaning": "（逐漸）消散、消失",
+     "usage": "原指融化，比喻擔憂、壓力、阻力慢慢消失：My worries melted away.",
+     "example": "As soon as she started speaking, her nerves melted away.",
+     "trans": "她一開口，緊張感就消散了。"
+    },
+    {
+     "n": 79,
+     "cat": "chunk",
+     "term": "come into focus",
+     "ipa": "",
+     "pos": "v. phr.",
+     "meaning": "變得清晰、成為焦點",
+     "usage": "反義 go out of focus。也可 bring sth into focus（使……清楚）。",
+     "example": "After the meeting, our priorities finally came into focus.",
+     "trans": "開完會後，我們的優先事項終於清楚了。"
+    },
+    {
+     "n": 80,
+     "cat": "chunk",
+     "term": "leave behind",
+     "ipa": "",
+     "pos": "phr. v.",
+     "meaning": "留下（遺產、影響）；遺落",
+     "usage": "文中指「留給後世」：leave a legacy behind。也指把人或物落下：leave my phone behind。",
+     "example": "What kind of legacy do you want to leave behind?",
+     "trans": "你想留下什麼樣的影響？"
+    },
+    {
+     "n": 81,
+     "cat": "chunk",
+     "term": "think things through",
+     "ipa": "",
+     "pos": "phr. v.",
+     "meaning": "把事情想清楚、通盤考量",
+     "usage": "think sth through＝徹底想過各種後果，再做決定；與 #105 呼應。",
+     "example": "Don't rush. Take a day to think things through.",
+     "trans": "別急，花一天把事情想清楚。"
+    },
+    {
+     "n": 82,
+     "cat": "chunk",
+     "term": "carry out",
+     "ipa": "",
+     "pos": "phr. v.",
+     "meaning": "執行、實施",
+     "usage": "carry out a plan / a survey / an order / research；比 do 正式。",
+     "example": "The team carried out the plan exactly as designed.",
+     "trans": "團隊完全照設計執行了計畫。"
+    },
+    {
+     "n": 83,
+     "cat": "chunk",
+     "term": "conjure up",
+     "ipa": "conjure /ˈkʌn.dʒɚ/",
+     "pos": "phr. v.",
+     "meaning": "想出、變出；喚起（畫面）",
+     "usage": "原指變魔術變出來；conjure up a plan＝構思出計畫；conjure up images of…＝讓人聯想到。",
+     "example": "The smell of coffee conjures up memories of my college days.",
+     "trans": "咖啡香讓我想起大學時光。"
+    },
+    {
+     "n": 84,
+     "cat": "chunk",
+     "term": "either way",
+     "ipa": "",
+     "pos": "phr.",
+     "meaning": "無論如何、不管哪一種",
+     "usage": "承接前面兩個選項：不論是 A 或 B，結論都一樣。口語常用 Either way, it's fine with me.",
+     "example": "We can meet on Monday or Tuesday. Either way, I'll send the agenda tonight.",
+     "trans": "我們週一或週二見都行，不管哪天我今晚都會寄議程。"
+    },
+    {
+     "n": 85,
+     "cat": "chunk",
+     "term": "put up (a roof / a building)",
+     "ipa": "",
+     "pos": "phr. v.",
+     "meaning": "搭建、豎起",
+     "usage": "put up a building / a tent / a sign / a poster。另義 put up with＝忍受（易混淆）。",
+     "example": "They put up a new office building in just eight months.",
+     "trans": "他們只花八個月就蓋好新辦公大樓。"
+    },
+    {
+     "n": 86,
+     "cat": "chunk",
+     "term": "draft a blueprint",
+     "ipa": "blueprint /ˈbluː.prɪnt/",
+     "pos": "v. phr.",
+     "meaning": "擬定藍圖",
+     "usage": "draft＝草擬（draft a proposal / an email）；blueprint 比喻詳細計畫：a blueprint for success。",
+     "example": "Before expanding overseas, we drafted a clear blueprint.",
+     "trans": "在拓展海外前，我們先擬好清楚的藍圖。"
+    },
+    {
+     "n": 87,
+     "cat": "chunk",
+     "term": "a chaotic disaster",
+     "ipa": "chaotic /keɪˈɑː.t̬ɪk/",
+     "pos": "n. phr.",
+     "meaning": "一團混亂的災難",
+     "usage": "chaotic 開頭唸 /keɪ/（名詞 chaos /ˈkeɪ.ɑːs/）。口語也說 a total mess。",
+     "example": "Without a schedule, the event would have been a chaotic disaster.",
+     "trans": "如果沒有時程表，活動會亂成一團。"
+    },
+    {
+     "n": 88,
+     "cat": "chunk",
+     "term": "make costly mistakes",
+     "ipa": "costly /ˈkɑːst.li/",
+     "pos": "v. phr.",
+     "meaning": "犯下代價高昂的錯誤",
+     "usage": "costly＝昂貴的、代價大的（不是副詞）：a costly error / delay。make a mistake 不說 do a mistake。",
+     "example": "Rushing the launch led us to make costly mistakes.",
+     "trans": "倉促上市讓我們犯下代價高昂的錯誤。"
+    },
+    {
+     "n": 89,
+     "cat": "chunk",
+     "term": "in the professional sphere",
+     "ipa": "sphere /sfɪr/",
+     "pos": "phr.",
+     "meaning": "在職場領域",
+     "usage": "sphere＝領域、範圍：public / private sphere、sphere of influence（勢力範圍）。",
+     "example": "In the professional sphere, reliability matters more than talent.",
+     "trans": "在職場上，可靠比才華更重要。"
+    },
+    {
+     "n": 90,
+     "cat": "chunk",
+     "term": "flesh out",
+     "ipa": "",
+     "pos": "phr. v.",
+     "meaning": "充實、補充細節",
+     "usage": "flesh out a plan / an idea / a draft＝把骨架加上血肉，讓內容更完整。",
+     "example": "Can you flesh out these bullet points before the meeting?",
+     "trans": "會議前你可以把這些重點補充得更完整嗎？"
+    },
+    {
+     "n": 91,
+     "cat": "chunk",
+     "term": "ahead of time",
+     "ipa": "",
+     "pos": "phr.",
+     "meaning": "提前、事先",
+     "usage": "近義 in advance、beforehand。ahead of schedule＝比預定進度提前。",
+     "example": "Please submit your questions ahead of time.",
+     "trans": "請事先提交你的問題。"
+    },
+    {
+     "n": 92,
+     "cat": "chunk",
+     "term": "personal mission statement",
+     "ipa": "",
+     "pos": "n. phr.",
+     "meaning": "個人使命宣言",
+     "usage": "mission statement 原指企業宗旨聲明；本書延伸為寫下個人價值與人生目標。",
+     "example": "Our company's mission statement is printed on every badge.",
+     "trans": "公司的使命宣言印在每張識別證上。"
+    },
+    {
+     "n": 93,
+     "cat": "chunk",
+     "term": "uphold values",
+     "ipa": "uphold /ʌpˈhoʊld/",
+     "pos": "v. phr.",
+     "meaning": "堅守價值觀",
+     "usage": "uphold＝維護、支持：uphold a principle / the law / standards。過去式 upheld。",
+     "example": "Leaders must uphold the values they ask others to follow.",
+     "trans": "領導者必須堅守自己要求別人遵守的價值觀。"
+    },
+    {
+     "n": 94,
+     "cat": "chunk",
+     "term": "stay on the right path",
+     "ipa": "",
+     "pos": "v. phr.",
+     "meaning": "保持在正確道路上",
+     "usage": "stay on track 近義（職場更常用）；反義 go off track / lose one's way。呼應 #21 find one's way。",
+     "example": "Regular check-ins help the team stay on the right path.",
+     "trans": "定期確認進度能幫助團隊保持在正軌上。"
+    },
+    {
+     "n": 95,
+     "cat": "word",
+     "term": "morbid",
+     "ipa": "/ˈmɔːr.bɪd/",
+     "pos": "adj.",
+     "meaning": "病態的、（過度關注）死亡陰暗面的",
+     "usage": "morbid curiosity / humor / thoughts；口語 That's a bit morbid.＝有點陰森。",
+     "example": "Sorry for the morbid question, but do you have a will?",
+     "trans": "抱歉問個有點觸霉頭的問題，你有立遺囑嗎？"
+    },
+    {
+     "n": 96,
+     "cat": "word",
+     "term": "podium",
+     "ipa": "/ˈpoʊ.di.əm/",
+     "pos": "n.",
+     "meaning": "講台；頒獎台",
+     "usage": "step to / take the podium＝上台發言。lectern 是講桌。",
+     "example": "The CEO stepped to the podium to announce the results.",
+     "trans": "執行長走上講台宣布結果。"
+    },
+    {
+     "n": 97,
+     "cat": "word",
+     "term": "somber",
+     "ipa": "/ˈsɑːm.bɚ/",
+     "pos": "adj.",
+     "meaning": "嚴肅的、陰鬱的",
+     "usage": "英式拼 sombre。somber mood / tone / colors。反義 cheerful、upbeat。",
+     "example": "The meeting ended on a somber note after the layoff news.",
+     "trans": "裁員消息傳出後，會議在沉重的氣氛中結束。"
+    },
+    {
+     "n": 98,
+     "cat": "word",
+     "term": "ultimate",
+     "ipa": "/ˈʌl.tə.mət/",
+     "pos": "adj.",
+     "meaning": "最終的；終極的",
+     "usage": "ultimate goal / outcome / responsibility；副詞 ultimately＝最終。口語 the ultimate…＝最棒的。",
+     "example": "Our ultimate goal is to make the product profitable.",
+     "trans": "我們的最終目標是讓產品獲利。"
+    },
+    {
+     "n": 99,
+     "cat": "word",
+     "term": "introspection",
+     "ipa": "/ˌɪn.trəˈspek.ʃən/",
+     "pos": "n.",
+     "meaning": "內省、自我反省",
+     "usage": "形容詞 introspective。比 self-reflection 正式。do some introspection。",
+     "example": "The holiday gave me time for some much-needed introspection.",
+     "trans": "假期讓我有時間做些早該做的自我反省。"
+    },
+    {
+     "n": 100,
+     "cat": "word",
+     "term": "craft",
+     "ipa": "/kræft/",
+     "pos": "v.",
+     "meaning": "精心製作、打造",
+     "usage": "文中較少見的用法：當動詞，強調用心構思：craft a message / a strategy / a statement。名詞 craft＝工藝。",
+     "example": "She carefully crafted her response to the client.",
+     "trans": "她用心寫了給客戶的回覆。"
+    },
+    {
+     "n": 101,
+     "cat": "word",
+     "term": "dense",
+     "ipa": "/dens/",
+     "pos": "adj.",
+     "meaning": "（內容）密集的、難懂的",
+     "usage": "文中指計畫內容「詳細紮實」；常形容文字難讀：a dense report。原意「稠密的」（dense fog / population）。",
+     "example": "The contract is dense, so read it slowly.",
+     "trans": "這份合約內容很密，要慢慢讀。"
+    },
+    {
+     "n": 102,
+     "cat": "pattern",
+     "term": "Imagine that it's (time) in the future, and…",
+     "ipa": "",
+     "pos": "",
+     "meaning": "想像現在是……之後，而……",
+     "usage": "用時間跳躍製造情境，引導讀者從未來回看現在；呼應 #41 Imagine you're… 開場法。",
+     "example": "Imagine that it's five years in the future, and your startup has just gone public.",
+     "trans": "想像現在是五年後，而你的新創公司剛剛上市。"
+    },
+    {
+     "n": 103,
+     "cat": "pattern",
+     "term": "Sure, this is…, but it's also…",
+     "ipa": "",
+     "pos": "",
+     "meaning": "當然，這……，但它也……",
+     "usage": "先讓步承認缺點，再翻轉出價值，語氣自然口語。類似 #42 While X…, it's far more…",
+     "example": "Sure, this is extra work, but it's also a great chance to learn.",
+     "trans": "當然這是額外工作，但也是很好的學習機會。"
+    },
+    {
+     "n": 104,
+     "cat": "pattern",
+     "term": "Whenever you…, whether big or small, …",
+     "ipa": "",
+     "pos": "",
+     "meaning": "每當你……，不論大小，……",
+     "usage": "whether A or B 插入句中補充「不論哪種情況」。可換成 whether online or offline / whether you like it or not。",
+     "example": "Whenever you make a decision, whether big or small, consider who it affects.",
+     "trans": "每當你做決定，不論大小，都要想想會影響到誰。"
+    },
+    {
+     "n": 105,
+     "cat": "pattern",
+     "term": "After all, without…, …",
+     "ipa": "",
+     "pos": "",
+     "meaning": "畢竟，如果沒有……，就會……",
+     "usage": "After all 提出理由支持前句；without… 引出假設情境。",
+     "example": "Test it carefully. After all, without proper testing, users will find the bugs for us.",
+     "trans": "要仔細測試。畢竟沒有好好測試，使用者就會幫我們找到錯誤。"
+    },
+    {
+     "n": 106,
+     "cat": "pattern",
+     "term": "The real benefits of X come when…",
+     "ipa": "",
+     "pos": "",
+     "meaning": "X 真正的好處在於……的時候才出現",
+     "usage": "先肯定一般好處，再強調「真正」價值在哪裡。常以 However 開頭承接前文。",
+     "example": "The real benefits of exercise come when you do it consistently.",
+     "trans": "運動真正的好處要持之以恆才會出現。"
+    }
+   ]
   }
  ]
 }
