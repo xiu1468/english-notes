@@ -1559,6 +1559,368 @@
      "trans": "不要只列問題，而是提出解決方案。"
     }
    ]
+  },
+  {
+   "seg": 6,
+   "top": [
+    141,
+    148,
+    167
+   ],
+   "items": [
+    {
+     "n": 138,
+     "cat": "chunk",
+     "term": "take home the trophy",
+     "ipa": "trophy /ˈtroʊ.fi/",
+     "pos": "v. phr.",
+     "meaning": "捧回獎盃、奪冠",
+     "usage": "take home＝贏得帶回（take home the prize / first place）；take-home pay＝實得薪資。",
+     "example": "Our team took home the trophy for best design.",
+     "trans": "我們團隊拿下最佳設計獎。"
+    },
+    {
+     "n": 139,
+     "cat": "chunk",
+     "term": "go home empty-handed",
+     "ipa": "",
+     "pos": "v. phr.",
+     "meaning": "空手而回、一無所獲",
+     "usage": "empty-handed 常搭 leave / return / go home。商務：leave the negotiation empty-handed。",
+     "example": "We didn't want the client to leave empty-handed, so we offered a discount.",
+     "trans": "我們不想讓客戶空手而回，所以給了折扣。"
+    },
+    {
+     "n": 140,
+     "cat": "chunk",
+     "term": "no matter how (well)…",
+     "ipa": "",
+     "pos": "phr.",
+     "meaning": "不管多麼……",
+     "usage": "no matter how + adj./adv. + S + V；也有 no matter what / who / where。",
+     "example": "No matter how busy you are, take a break every hour.",
+     "trans": "不管多忙，每小時都要休息一下。"
+    },
+    {
+     "n": 141,
+     "cat": "chunk",
+     "term": "mutually beneficial",
+     "ipa": "mutually /ˈmjuː.tʃu.ə.li/ · beneficial /ˌben.əˈfɪʃ.əl/",
+     "pos": "adj. phr.",
+     "meaning": "互惠互利的",
+     "usage": "商務超常用：a mutually beneficial partnership / agreement / relationship。近義 win-win。",
+     "example": "We're looking for a mutually beneficial partnership.",
+     "trans": "我們在尋求互惠的合作關係。"
+    },
+    {
+     "n": 142,
+     "cat": "chunk",
+     "term": "make use of",
+     "ipa": "",
+     "pos": "v. phr.",
+     "meaning": "利用、使用",
+     "usage": "make (good / full) use of＝善用／充分利用；比 use 正式。",
+     "example": "Make full use of the resources the company offers.",
+     "trans": "要充分利用公司提供的資源。"
+    },
+    {
+     "n": 143,
+     "cat": "chunk",
+     "term": "win-lose / win-win",
+     "ipa": "",
+     "pos": "adj. / n.",
+     "meaning": "一方贏一方輸／雙贏",
+     "usage": "可當形容詞：a win-win situation / solution；也可當名詞：look for the win-win。另有 lose-lose（兩敗俱傷）。",
+     "example": "Flexible hours are a win-win for staff and the company.",
+     "trans": "彈性工時對員工和公司是雙贏。"
+    },
+    {
+     "n": 144,
+     "cat": "chunk",
+     "term": "turn A into B",
+     "ipa": "",
+     "pos": "v. phr.",
+     "meaning": "把 A 變成 B",
+     "usage": "turn potential partners into adversaries；類似 turn an idea into a business、turn a crisis into an opportunity。",
+     "example": "She turned a small side project into a successful business.",
+     "trans": "她把一個小副業變成成功的事業。"
+    },
+    {
+     "n": 145,
+     "cat": "chunk",
+     "term": "breed distrust",
+     "ipa": "breed /briːd/",
+     "pos": "v. phr.",
+     "meaning": "滋生不信任",
+     "usage": "breed 原義「繁殖」，引申為「孕育（負面事物）」：breed resentment / conflict。諺語 Familiarity breeds contempt.",
+     "example": "Secrecy breeds distrust in any team.",
+     "trans": "任何團隊中，秘而不宣都會滋生不信任。"
+    },
+    {
+     "n": 146,
+     "cat": "chunk",
+     "term": "top-performing",
+     "ipa": "",
+     "pos": "adj.",
+     "meaning": "表現最好的",
+     "usage": "top-performing employee / fund / product；名詞 top performer。",
+     "example": "Our top-performing stores are all in city centers.",
+     "trans": "我們表現最好的門市都在市中心。"
+    },
+    {
+     "n": 147,
+     "cat": "chunk",
+     "term": "hide leads",
+     "ipa": "leads /liːdz/",
+     "pos": "v. phr.",
+     "meaning": "藏起潛在客戶名單",
+     "usage": "lead（n.）在業務領域＝潛在客戶線索：sales leads、generate leads。另義「線索」（The police have no leads.）。",
+     "example": "The marketing team generated 200 new leads last month.",
+     "trans": "行銷團隊上個月開發了 200 個新潛在客戶。"
+    },
+    {
+     "n": 148,
+     "cat": "chunk",
+     "term": "ditch A in favor of B",
+     "ipa": "ditch /dɪtʃ/",
+     "pos": "v. phr.",
+     "meaning": "拋棄 A 改用 B",
+     "usage": "ditch＝口語「丟掉、放棄」；in favor of＝選擇（B）而捨棄前者。正式可用 abandon A for B。",
+     "example": "Many companies have ditched paper forms in favor of apps.",
+     "trans": "很多公司已經捨棄紙本表單，改用 App。"
+    },
+    {
+     "n": 149,
+     "cat": "chunk",
+     "term": "everyone involved",
+     "ipa": "",
+     "pos": "n. phr.",
+     "meaning": "所有相關人士",
+     "usage": "involved 放名詞後＝參與其中的：the people involved、the risks involved。",
+     "example": "The new schedule works better for everyone involved.",
+     "trans": "新時程對所有相關的人都比較好。"
+    },
+    {
+     "n": 150,
+     "cat": "chunk",
+     "term": "give out (bonuses)",
+     "ipa": "",
+     "pos": "phr. v.",
+     "meaning": "發放（獎金）",
+     "usage": "give out＝分發：give out flyers / prizes / samples。另義「耗盡、故障」（My voice gave out.）。",
+     "example": "The company gives out bonuses at the end of each year.",
+     "trans": "公司每年年底發獎金。"
+    },
+    {
+     "n": 151,
+     "cat": "chunk",
+     "term": "result in",
+     "ipa": "",
+     "pos": "phr. v.",
+     "meaning": "導致、造成",
+     "usage": "A result in B（A 是因）；易混淆 result from（B result from A，表果）。",
+     "example": "The new system resulted in faster delivery times.",
+     "trans": "新系統讓交貨時間縮短了。"
+    },
+    {
+     "n": 152,
+     "cat": "chunk",
+     "term": "abundance mentality",
+     "ipa": "abundance /əˈbʌn.dəns/ · mentality /menˈtæl.ə.t̬i/",
+     "pos": "n. phr.",
+     "meaning": "富足心態",
+     "usage": "Covey 提出的概念，相對於 scarcity mentality（匱乏心態）。abundant（adj.）充足的。",
+     "example": "An abundance mentality makes it easier to share credit.",
+     "trans": "有富足心態的人比較容易與人分享功勞。"
+    },
+    {
+     "n": 153,
+     "cat": "chunk",
+     "term": "rare commodities",
+     "ipa": "commodity /kəˈmɑː.də.t̬i/",
+     "pos": "n. phr.",
+     "meaning": "稀有的商品、稀缺資源",
+     "usage": "commodity＝商品、原物料（commodity prices）；比喻珍貴的東西：Time is a precious commodity.",
+     "example": "These days, attention is a rare commodity.",
+     "trans": "如今，注意力是稀缺資源。"
+    },
+    {
+     "n": 154,
+     "cat": "chunk",
+     "term": "play on the same team",
+     "ipa": "",
+     "pos": "v. phr.",
+     "meaning": "同一陣線、站在同一邊",
+     "usage": "比喻目標一致；近義 be on the same side / be on the same page（想法一致）。",
+     "example": "Remember, sales and marketing are playing on the same team.",
+     "trans": "記住，業務和行銷是同一陣線的。"
+    },
+    {
+     "n": 155,
+     "cat": "word",
+     "term": "triumph",
+     "ipa": "/ˈtraɪ.əmf/",
+     "pos": "v. / n.",
+     "meaning": "獲勝；勝利",
+     "usage": "比 win 正式、有氣勢：triumph over adversity（戰勝逆境）；形容詞 triumphant。",
+     "example": "In the end, common sense triumphed.",
+     "trans": "最終，常識佔了上風。"
+    },
+    {
+     "n": 156,
+     "cat": "word",
+     "term": "collaborative",
+     "ipa": "/kəˈlæb.ɚ.ə.t̬ɪv/",
+     "pos": "adj.",
+     "meaning": "合作的、協作的",
+     "usage": "collaborative effort / approach / tools；動詞 collaborate on sth with sb。",
+     "example": "The report was a collaborative effort between three departments.",
+     "trans": "這份報告是三個部門合作完成的。"
+    },
+    {
+     "n": 157,
+     "cat": "word",
+     "term": "dominant",
+     "ipa": "/ˈdɑː.mə.nənt/",
+     "pos": "adj.",
+     "meaning": "主導的、佔優勢的",
+     "usage": "dominant position / player / culture；動詞 dominate。",
+     "example": "Apple remains the dominant player in the premium phone market.",
+     "trans": "蘋果仍是高階手機市場的主導者。"
+    },
+    {
+     "n": 158,
+     "cat": "word",
+     "term": "worldview",
+     "ipa": "/ˈwɝːld.vjuː/",
+     "pos": "n.",
+     "meaning": "世界觀",
+     "usage": "一個字或分寫 world view 皆可；近義 outlook、perspective、paradigm（#35）。",
+     "example": "Traveling widely changed my worldview.",
+     "trans": "到處旅行改變了我的世界觀。"
+    },
+    {
+     "n": 159,
+     "cat": "word",
+     "term": "disastrous",
+     "ipa": "/dɪˈzæs.trəs/",
+     "pos": "adj.",
+     "meaning": "災難性的、極糟的",
+     "usage": "注意拼字：disaster → disastrous（去掉 e）。disastrous consequences / results。",
+     "example": "The product launch was disastrous.",
+     "trans": "這次產品上市慘不忍睹。"
+    },
+    {
+     "n": 160,
+     "cat": "word",
+     "term": "adversary",
+     "ipa": "/ˈæd.vɚ.ser.i/",
+     "pos": "n.",
+     "meaning": "對手、敵手",
+     "usage": "比 opponent 正式、敵意較強；形容詞 adversarial（對立的）。易混淆 adversity（逆境）。",
+     "example": "In negotiations, treat the other side as a partner, not an adversary.",
+     "trans": "談判時，要把對方當夥伴，而不是敵人。"
+    },
+    {
+     "n": 161,
+     "cat": "word",
+     "term": "disharmony",
+     "ipa": "/dɪsˈhɑːr.mə.ni/",
+     "pos": "n.",
+     "meaning": "不和、失調",
+     "usage": "正式；常與 conflict、tension 並用。反義 harmony。",
+     "example": "Unequal pay caused disharmony within the team.",
+     "trans": "薪資不平等造成團隊不和。"
+    },
+    {
+     "n": 162,
+     "cat": "word",
+     "term": "incentivize",
+     "ipa": "/ɪnˈsen.t̬ɪ.vaɪz/",
+     "pos": "v.",
+     "meaning": "以獎勵激勵",
+     "usage": "incentivize sb to do sth；名詞 incentive（financial incentives）。英式 incentivise。",
+     "example": "We incentivize staff to suggest improvements.",
+     "trans": "我們用獎勵鼓勵員工提出改善建議。"
+    },
+    {
+     "n": 163,
+     "cat": "word",
+     "term": "sabotage",
+     "ipa": "/ˈsæb.ə.tɑːʒ/",
+     "pos": "v. / n.",
+     "meaning": "蓄意破壞、扯後腿",
+     "usage": "結尾唸 /tɑːʒ/。sabotage a project / sb's chances；自毀：self-sabotage。",
+     "example": "He accused a coworker of sabotaging his presentation.",
+     "trans": "他指控同事破壞他的簡報。"
+    },
+    {
+     "n": 164,
+     "cat": "word",
+     "term": "fulfillment",
+     "ipa": "/fʊlˈfɪl.mənt/",
+     "pos": "n.",
+     "meaning": "滿足感、成就感；（訂單）履行",
+     "usage": "英式 fulfilment。sense of fulfillment（呼應 #2）；電商：order fulfillment（訂單出貨處理）。",
+     "example": "She finds real fulfillment in teaching.",
+     "trans": "她從教學中得到真正的滿足。"
+    },
+    {
+     "n": 165,
+     "cat": "word",
+     "term": "attain",
+     "ipa": "/əˈteɪn/",
+     "pos": "v.",
+     "meaning": "達到、獲得",
+     "usage": "正式，常接 goal / level / status / success；名詞 attainment。比 achieve 更書面。",
+     "example": "Few athletes ever attain that level of skill.",
+     "trans": "很少運動員能達到那樣的技術水準。"
+    },
+    {
+     "n": 166,
+     "cat": "pattern",
+     "term": "One…; the other…",
+     "ipa": "",
+     "pos": "",
+     "meaning": "一個……；另一個……",
+     "usage": "兩者對比時用 one / the other（三者以上用 others / the rest）。文中 One team takes home the trophy; the other goes home empty-handed.",
+     "example": "One candidate has more experience; the other has fresh ideas.",
+     "trans": "一位候選人經驗較多，另一位則有新想法。"
+    },
+    {
+     "n": 167,
+     "cat": "pattern",
+     "term": "The result? + 名詞片語.",
+     "ipa": "",
+     "pos": "",
+     "meaning": "結果呢？……",
+     "usage": "自問自答的短句，製造節奏與張力，常見於文章、簡報。",
+     "example": "We cut meetings by half. The result? A happier, faster team.",
+     "trans": "我們把會議砍半。結果呢？團隊更開心、效率更快。"
+    },
+    {
+     "n": 168,
+     "cat": "pattern",
+     "term": "That way, …",
+     "ipa": "",
+     "pos": "",
+     "meaning": "這樣一來，……",
+     "usage": "說明前述做法帶來的好處；口語常用。近義 This way、By doing so（較正式）。",
+     "example": "Send me the files tonight. That way, I can review them before the meeting.",
+     "trans": "今晚把檔案寄給我，這樣我就能在開會前看過。"
+    },
+    {
+     "n": 169,
+     "cat": "pattern",
+     "term": "There's always more + N + to be had.",
+     "ipa": "",
+     "pos": "",
+     "meaning": "總有更多……可以獲得",
+     "usage": "to be had＝可得到的（被動不定詞）：There's money to be had in…（……有錢可賺）。",
+     "example": "There's always more to be learned from your mistakes.",
+     "trans": "從錯誤中總有更多可學的。"
+    }
+   ]
   }
  ]
 }
