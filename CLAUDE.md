@@ -35,5 +35,6 @@
 
 - 書名可在網頁上改，但只存在該瀏覽器 localStorage（`vocabTitle:<id>`）；使用者要求改書名時改 JSON 的 `title`。勾選存在 `vocabSel:<id>`。
 - 網頁抓 JSON 時加 `?t=` 避開快取。
+- 網站沒有刪除功能。使用者要求刪除某本書時，刪掉 `books/<檔名>.json`，跑 `tools/vocab_index.py` 後推送。
 - 做 Anki 卡片時，從書的 JSON 取使用者給的編號：卡片不顯示編號；正面 term、ipa、pos；背面 meaning、usage、example、trans；支援夜間模式（`.nightMode`／`.night_mode`）。
 - 測試：`python3 -m http.server` + Playwright（`/usr/bin/google-chrome`，390×844），淺色／深色都截圖檢查。
