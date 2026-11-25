@@ -506,6 +506,346 @@
      "trans": "新政策要求每位員工在五月前完成訓練。"
     }
    ]
+  },
+  {
+   "seg": 3,
+   "top": [
+    48,
+    56,
+    73
+   ],
+   "items": [
+    {
+     "n": 45,
+     "cat": "chunk",
+     "term": "for millennia",
+     "ipa": "millennia /mɪˈlen.i.ə/",
+     "pos": "phr.",
+     "meaning": "數千年來",
+     "usage": "millennia 是 millennium（千年）的複數。類似 for centuries / for decades（#10 段落用過 for decades）。誇飾用法：for ages。",
+     "example": "Humans have told stories around the fire for millennia.",
+     "trans": "人類圍著火堆說故事已有數千年。"
+    },
+    {
+     "n": 46,
+     "cat": "chunk",
+     "term": "point to (sth as the cause)",
+     "ipa": "",
+     "pos": "v. phr.",
+     "meaning": "指出、歸因於",
+     "usage": "point to＝把某事當作原因或證據提出：Experts point to rising costs as the main reason. 比 blame 中性。",
+     "example": "Analysts point to weak demand as the cause of the drop.",
+     "trans": "分析師認為需求疲弱是下滑的原因。"
+    },
+    {
+     "n": 47,
+     "cat": "chunk",
+     "term": "reign supreme",
+     "ipa": "reign /reɪn/ · supreme /suːˈpriːm/",
+     "pos": "v. phr.",
+     "meaning": "居於主導、稱霸",
+     "usage": "reign 原指君王統治，g 不發音（同 rain）。reign supreme＝在某領域最重要、最強。",
+     "example": "In this company, the customer reigns supreme.",
+     "trans": "在這家公司，顧客至上。"
+    },
+    {
+     "n": 48,
+     "cat": "chunk",
+     "term": "be at the mercy of",
+     "ipa": "mercy /ˈmɝː.si/",
+     "pos": "v. phr.",
+     "meaning": "任由……擺布、受制於",
+     "usage": "後接無法控制的力量：at the mercy of the weather / the market / the boss。與 #64 proactive 的精神相反。",
+     "example": "Small farmers are at the mercy of the weather.",
+     "trans": "小農只能看天吃飯。"
+    },
+    {
+     "n": 49,
+     "cat": "chunk",
+     "term": "the crucial difference between A and B",
+     "ipa": "crucial /ˈkruː.ʃəl/",
+     "pos": "n. phr.",
+     "meaning": "A 與 B 的關鍵差異",
+     "usage": "crucial＝極重要、關鍵的，比 important 強：a crucial role / decision / moment。",
+     "example": "The crucial difference between the two plans is cost.",
+     "trans": "這兩個方案的關鍵差異在於成本。"
+    },
+    {
+     "n": 50,
+     "cat": "chunk",
+     "term": "capacity for (sth)",
+     "ipa": "capacity /kəˈpæs.ə.t̬i/",
+     "pos": "n. phr.",
+     "meaning": "具備……的能力",
+     "usage": "capacity for + 抽象名詞＝天生或潛在能力：capacity for self-awareness / learning / growth。另義「容量、產能」（production capacity）。",
+     "example": "Children have an amazing capacity for learning languages.",
+     "trans": "孩子學語言的能力驚人。"
+    },
+    {
+     "n": 51,
+     "cat": "chunk",
+     "term": "be beholden to",
+     "ipa": "beholden /bɪˈhoʊl.dən/",
+     "pos": "adj. phr.",
+     "meaning": "受制於；欠人情",
+     "usage": "正式。原義「欠某人人情、受恩於」，引申為「受……支配、不得不聽從」：beholden to shareholders / special interests。",
+     "example": "Independent media should not be beholden to advertisers.",
+     "trans": "獨立媒體不應受廣告商左右。"
+    },
+    {
+     "n": 52,
+     "cat": "chunk",
+     "term": "determine one's own destiny",
+     "ipa": "destiny /ˈdes.tə.ni/",
+     "pos": "v. phr.",
+     "meaning": "掌握自己的命運",
+     "usage": "近義 take control of one's fate / life；呼應 #11 take charge of。destiny 偏正面、宏大，fate 常帶無奈。",
+     "example": "Education gives people the chance to determine their own destiny.",
+     "trans": "教育讓人有機會掌握自己的命運。"
+    },
+    {
+     "n": 53,
+     "cat": "chunk",
+     "term": "focus on the positives",
+     "ipa": "",
+     "pos": "v. phr.",
+     "meaning": "聚焦於好的一面",
+     "usage": "positive 當名詞（複數）＝優點、好處；反義 the negatives。近義 look on the bright side。",
+     "example": "Even after the setback, she chose to focus on the positives.",
+     "trans": "即使遭遇挫折，她仍選擇看好的一面。"
+    },
+    {
+     "n": 54,
+     "cat": "chunk",
+     "term": "direct one's energy toward / into",
+     "ipa": "",
+     "pos": "v. phr.",
+     "meaning": "把精力投入於",
+     "usage": "direct 當動詞＝引導、導向；也可說 channel one's energy into。常與 #45 段末 focus your energy on 互換。",
+     "example": "Instead of complaining, direct your energy toward finding a solution.",
+     "trans": "與其抱怨，不如把精力用在找解決方法上。"
+    },
+    {
+     "n": 55,
+     "cat": "chunk",
+     "term": "be in command of",
+     "ipa": "",
+     "pos": "v. phr.",
+     "meaning": "掌控、能駕馭",
+     "usage": "in command of one's emotions / the situation＝掌控得住；比 in control of 更有「指揮」的語感。",
+     "example": "She stayed calm and in command of the meeting.",
+     "trans": "她保持冷靜，完全掌控會議。"
+    },
+    {
+     "n": 56,
+     "cat": "chunk",
+     "term": "pull through",
+     "ipa": "",
+     "pos": "phr. v.",
+     "meaning": "撐過去、度過難關（病痛、危機）",
+     "usage": "不及物：He pulled through. 也可 pull sb through（幫某人度過）。近義 get through、survive。",
+     "example": "The company pulled through the recession thanks to loyal customers.",
+     "trans": "靠著忠實顧客，公司撐過了經濟衰退。"
+    },
+    {
+     "n": 57,
+     "cat": "chunk",
+     "term": "take (extra) care to V",
+     "ipa": "",
+     "pos": "v. phr.",
+     "meaning": "（特別）小心地做、留意去做",
+     "usage": "take care to + 原形動詞＝刻意謹慎地做；比 be careful to 正式。",
+     "example": "Take extra care to check the figures before sending the report.",
+     "trans": "寄出報告前要特別留意核對數字。"
+    },
+    {
+     "n": 58,
+     "cat": "chunk",
+     "term": "course of action",
+     "ipa": "",
+     "pos": "n. phr.",
+     "meaning": "行動方針、做法",
+     "usage": "正式：the best course of action / decide on a course of action。常用於決策討論。",
+     "example": "After reviewing the data, we agreed on a course of action.",
+     "trans": "檢視資料後，我們達成行動方案的共識。"
+    },
+    {
+     "n": 59,
+     "cat": "chunk",
+     "term": "succumb to",
+     "ipa": "succumb /səˈkʌm/",
+     "pos": "v. phr.",
+     "meaning": "屈服於、敵不過",
+     "usage": "b 不發音。succumb to temptation / pressure / an illness。比 give in to 正式。",
+     "example": "Don't succumb to pressure to cut corners.",
+     "trans": "別因壓力就屈服而便宜行事。"
+    },
+    {
+     "n": 60,
+     "cat": "chunk",
+     "term": "step back",
+     "ipa": "",
+     "pos": "phr. v.",
+     "meaning": "退一步（冷靜客觀地看）",
+     "usage": "比喻暫時抽離以看清全局：step back and look at the big picture。另義「卸下職務」（step back from the role）。",
+     "example": "Sometimes you need to step back to see what's really going on.",
+     "trans": "有時你得退一步才看得清真正的狀況。"
+    },
+    {
+     "n": 61,
+     "cat": "chunk",
+     "term": "root cause",
+     "ipa": "",
+     "pos": "n. phr.",
+     "meaning": "根本原因",
+     "usage": "root cause analysis＝根本原因分析（職場常用）。近義 underlying cause（#38）。",
+     "example": "We fixed the bug, but we still don't know the root cause.",
+     "trans": "我們修好了錯誤，但仍不知道根本原因。"
+    },
+    {
+     "n": 62,
+     "cat": "word",
+     "term": "vex",
+     "ipa": "/veks/",
+     "pos": "v.",
+     "meaning": "使困擾、使苦惱",
+     "usage": "正式或文學性；vexed question＝爭論不休的難題。形容詞 vexing。",
+     "example": "The problem has vexed engineers for years.",
+     "trans": "這個問題困擾工程師多年。"
+    },
+    {
+     "n": 63,
+     "cat": "word",
+     "term": "deterministic",
+     "ipa": "/dɪˌtɝː.məˈnɪs.tɪk/",
+     "pos": "adj.",
+     "meaning": "決定論的（認為一切由外因決定）",
+     "usage": "名詞 determinism。文中解釋為「命運由外在影響決定」。動詞 determine（#52）。",
+     "example": "His view of human behavior is too deterministic.",
+     "trans": "他對人類行為的看法太偏決定論。"
+    },
+    {
+     "n": 64,
+     "cat": "word",
+     "term": "proactive",
+     "ipa": "/ˌproʊˈæk.tɪv/",
+     "pos": "adj.",
+     "meaning": "主動積極的、先發制人的",
+     "usage": "本書第一個習慣。反義 reactive（被動回應的）。職場常用：take a proactive approach。",
+     "example": "Be proactive and raise issues before they become problems.",
+     "trans": "要主動，在問題擴大前就提出來。"
+    },
+    {
+     "n": 65,
+     "cat": "word",
+     "term": "brood",
+     "ipa": "/bruːd/",
+     "pos": "v.",
+     "meaning": "沉思鬱悶、悶悶不樂地想",
+     "usage": "brood about / over sth＝一直想著不愉快的事。名詞 brood 另義「一窩雛鳥」。",
+     "example": "There's no point brooding over the mistake.",
+     "trans": "一直為那個錯誤悶悶不樂沒有意義。"
+    },
+    {
+     "n": 66,
+     "cat": "word",
+     "term": "dire",
+     "ipa": "/daɪr/",
+     "pos": "adj.",
+     "meaning": "極糟的、危急的",
+     "usage": "dire circumstances / consequences / straits；be in dire need of＝急需。",
+     "example": "The hospital is in dire need of more nurses.",
+     "trans": "這家醫院急需更多護理師。"
+    },
+    {
+     "n": 67,
+     "cat": "word",
+     "term": "tormentor",
+     "ipa": "/tɔːrˈmen.t̬ɚ/",
+     "pos": "n.",
+     "meaning": "折磨者、迫害者",
+     "usage": "動詞 torment /tɔːrˈment/（折磨）；名詞 torment /ˈtɔːr.ment/（痛苦），注意重音不同。",
+     "example": "He eventually forgave his former tormentors.",
+     "trans": "他最後原諒了曾經折磨他的人。"
+    },
+    {
+     "n": 68,
+     "cat": "word",
+     "term": "foster",
+     "ipa": "/ˈfɑː.stɚ/",
+     "pos": "v.",
+     "meaning": "培養、促進",
+     "usage": "foster creativity / collaboration / a culture of…；近義 cultivate（#15）、nurture。另義「寄養」（foster parents）。",
+     "example": "We want to foster a culture of open feedback.",
+     "trans": "我們希望培養開放回饋的文化。"
+    },
+    {
+     "n": 69,
+     "cat": "word",
+     "term": "hardship",
+     "ipa": "/ˈhɑːrd.ʃɪp/",
+     "pos": "n.",
+     "meaning": "困苦、艱難",
+     "usage": "可數或不可數：face / endure hardship、financial hardship。比 difficulty 更沉重。",
+     "example": "Many families faced financial hardship during the pandemic.",
+     "trans": "疫情期間許多家庭陷入經濟困境。"
+    },
+    {
+     "n": 70,
+     "cat": "pattern",
+     "term": "What makes X X?",
+     "ipa": "",
+     "pos": "",
+     "meaning": "是什麼讓 X 成為 X？",
+     "usage": "make + 受詞 + 名詞補語，用同一個字製造巧妙效果：What makes you you? / What makes a leader a leader? 適合開場提問。",
+     "example": "What makes a great team a great team?",
+     "trans": "是什麼讓一支優秀團隊之所以優秀？"
+    },
+    {
+     "n": 71,
+     "cat": "pattern",
+     "term": "Some argue that…. Others point to…. Still others insist that…",
+     "ipa": "",
+     "pos": "",
+     "meaning": "有人主張……；有人歸因於……；還有人堅持……",
+     "usage": "列舉三種觀點的經典句型，Still others 是第三組。之後常接 The truth is…（#72）提出作者立場。",
+     "example": "Some argue that AI will create jobs. Others point to the risk of layoffs. Still others insist it's too early to tell.",
+     "trans": "有人認為 AI 會創造工作，有人指出裁員風險，還有人堅持現在下定論還太早。"
+    },
+    {
+     "n": 72,
+     "cat": "pattern",
+     "term": "The truth is, none of these … is sufficient.",
+     "ipa": "",
+     "pos": "",
+     "meaning": "事實上，這些……都不夠。",
+     "usage": "The truth is, + 句子 用來推翻前面的觀點、提出真相。none of + 複數名詞，正式寫作常配單數動詞。",
+     "example": "The truth is, none of these solutions is perfect.",
+     "trans": "事實上，這些方案都不完美。"
+    },
+    {
+     "n": 73,
+     "cat": "pattern",
+     "term": "Rather than + V原形, S + V…",
+     "ipa": "",
+     "pos": "",
+     "meaning": "與其……，不如……",
+     "usage": "Rather than 放句首時接原形動詞（Rather than lose hope / brood）。近義 Instead of + V-ing。",
+     "example": "Rather than wait for instructions, she started drafting the plan herself.",
+     "trans": "她沒有等指示，而是自己開始擬計畫。"
+    },
+    {
+     "n": 74,
+     "cat": "pattern",
+     "term": "…, which brings us to…",
+     "ipa": "",
+     "pos": "",
+     "meaning": "……，這就帶出了……",
+     "usage": "承上啟下的轉場句，簡報超好用：…, which brings us to our next point.",
+     "example": "Costs keep rising, which brings us to the question of pricing.",
+     "trans": "成本持續上升，這就帶出了定價的問題。"
+    }
+   ]
   }
  ]
 }
