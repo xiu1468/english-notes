@@ -76,6 +76,9 @@ main{max-width:720px;margin:0 auto;padding:12px 12px 120px}
 .btn{border:1px solid var(--line);background:var(--card);border-radius:10px;padding:8px 12px;cursor:pointer;font-size:15px}
 .btn.primary{background:var(--accent);border-color:var(--accent);color:#fff;font-weight:600}
 .btn:disabled{opacity:.45}
+.hiddenhd{margin:24px 4px 8px;font-size:13px;color:var(--muted);cursor:pointer}
+.book.gone{opacity:.6;display:flex;align-items:center;gap:10px}
+.book.gone .info{flex:1;min-width:0}
 .toast{position:fixed;left:50%;bottom:90px;transform:translateX(-50%);background:var(--fg);color:var(--bg);
   padding:8px 16px;border-radius:999px;font-size:14px;opacity:0;transition:opacity .2s;pointer-events:none;z-index:9}
 .toast.show{opacity:1}
@@ -86,6 +89,7 @@ main{max-width:720px;margin:0 auto;padding:12px 12px 120px}
   <button class="iconbtn" id="back" aria-label="回書架" hidden>‹</button>
   <h1 id="title">語塊筆記</h1>
   <button class="iconbtn" id="rename" aria-label="改書名" hidden>✎</button>
+  <button class="iconbtn" id="del" aria-label="刪除這本書" hidden>🗑</button>
   <button class="iconbtn" id="reload" aria-label="重新載入">↻</button>
 </header>
 <main id="main"></main>
@@ -125,11 +129,14 @@ main{max-width:720px;margin:0 auto;padding:12px 12px 120px}
   function showShelf(){
     book = null;
     $('#title').textContent = '語塊筆記';
-    $('#back').hidden = $('#rename').hidden = true; $('#bar').hidden = true;
+    $('#back').hidden = $('#rename').hidden = $('#del').hidden = true; $('#bar').hidden = true;
     document.title = '語塊筆記';
     main.replaceChildren();
-    if(!books.length){ main.append(el('p','empty','還沒有書')); return; }
-    [...books].sort((a,b) => (b.created||'').localeCompare(a.created||'')).forEach(b => {
+    const gone = new Set(store.get('vocabHidden', []));
+    const all = [...books].sort((a,b) => (b.created||'').localeCompare(a.created||''));
+    const shown = all.filter(b => !gone.has(b.id)), hidden = all.filter(b => gone.has(b.id));
+    if(!shown.length) main.append(el('p','empty','還沒有書'));
+    shown.forEach(b => {
       const btn = el('button','book');
       btn.append(el('div','t', titleOf(b)));
       const n = store.get('vocabSel:' + b.id, []).length;
@@ -137,6 +144,19 @@ main{max-width:720px;margin:0 auto;padding:12px 12px 120px}
       btn.onclick = () => { history.pushState(null,'','?book=' + encodeURIComponent(b.id)); openBook(b.id); };
       main.append(btn);
     });
+    if(hidden.length){
+      const hd = el('div','hiddenhd', `▸ 已刪除（${hidden.length}）`);
+      const box = el('div'); box.hidden = true;
+      hd.onclick = () => { box.hidden = !box.hidden; hd.textContent = (box.hidden ? '▸' : '▾') + ` 已刪除（${hidden.length}）`; };
+      hidden.forEach(b => {
+        const row = el('div','book gone');
+        const info = el('div','info'); info.append(el('div','t', titleOf(b)), el('div','m', `${b.count||0} 個項目 · ${b.created||''}`));
+        const r = el('button','btn','復原');
+        r.onclick = () => { store.set('vocabHidden', store.get('vocabHidden', []).filter(x => x !== b.id)); toast('已復原'); showShelf(); };
+        row.append(info, r); box.append(row);
+      });
+      main.append(hd, box);
+    }
   }
 
   async function openBook(id){
@@ -144,7 +164,7 @@ main{max-width:720px;margin:0 auto;padding:12px 12px 120px}
     try{ book = await fresh('books/' + meta.file); }
     catch(e){ main.replaceChildren(el('p','empty','載入失敗，請按 ↻ 重試')); return; }
     sel = new Set(store.get('vocabSel:' + id, []));
-    $('#back').hidden = $('#rename').hidden = false; $('#bar').hidden = false;
+    $('#back').hidden = $('#rename').hidden = $('#del').hidden = false; $('#bar').hidden = false;
     setTitle();
     render();
   }
@@ -252,6 +272,11 @@ main{max-width:720px;margin:0 auto;padding:12px 12px 120px}
     const v = t.trim();
     if(!v || v === book.title) localStorage.removeItem('vocabTitle:' + book.id); else store.set('vocabTitle:' + book.id, v);
     setTitle();
+  };
+  $('#del').onclick = () => {
+    if(!confirm(`刪除「${titleOf(book)}」？\n\n會從這支手機的書架移除，之後可在書架底部「已刪除」復原。`)) return;
+    const h = new Set(store.get('vocabHidden', [])); h.add(book.id); store.set('vocabHidden', [...h]);
+    history.pushState(null,'',location.pathname); filter='all'; query=''; showShelf(); toast('已刪除');
   };
   $('#back').onclick = () => { history.pushState(null,'',location.pathname); filter='all'; query=''; showShelf(); };
   $('#reload').onclick = () => route().then(() => toast('已更新'));
