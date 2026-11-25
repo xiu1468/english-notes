@@ -3073,6 +3073,225 @@
      "trans": "有了這些穩固的習慣，你就能應對任何挑戰。"
     }
    ]
+  },
+  {
+   "seg": 10,
+   "top": [
+    273,
+    281,
+    287
+   ],
+   "items": [
+    {
+     "n": 272,
+     "cat": "chunk",
+     "term": "the key message",
+     "ipa": "",
+     "pos": "n. phr.",
+     "meaning": "核心訊息、重點",
+     "usage": "key＝關鍵的：key takeaway（重點收穫，簡報結尾常用）、key point、key factor。",
+     "example": "The key takeaway from today's meeting is that we need more staff.",
+     "trans": "今天會議的重點是我們需要更多人手。"
+    },
+    {
+     "n": 273,
+     "cat": "chunk",
+     "term": "take (proactive) control of",
+     "ipa": "",
+     "pos": "v. phr.",
+     "meaning": "（主動）掌控",
+     "usage": "take control of one's life / finances / time；近義 #11 take charge of。與 be in control of（狀態）區分。",
+     "example": "It's time to take control of your finances.",
+     "trans": "是時候掌控你的財務了。"
+    },
+    {
+     "n": 274,
+     "cat": "chunk",
+     "term": "win-win scenario",
+     "ipa": "scenario /səˈner.i.oʊ/",
+     "pos": "n. phr.",
+     "meaning": "雙贏局面",
+     "usage": "scenario＝情境、可能的情況：best-case / worst-case scenario。同 #143 win-win。",
+     "example": "In the worst-case scenario, we'll delay the launch by a month.",
+     "trans": "最壞的情況下，我們會延後一個月上市。"
+    },
+    {
+     "n": 275,
+     "cat": "chunk",
+     "term": "work to V",
+     "ipa": "",
+     "pos": "v. phr.",
+     "meaning": "努力去做……",
+     "usage": "work to improve / build / reduce；強調持續付出。比 try to 更有行動感。",
+     "example": "We're working to reduce delivery times.",
+     "trans": "我們正努力縮短交貨時間。"
+    },
+    {
+     "n": 276,
+     "cat": "chunk",
+     "term": "actionable advice",
+     "ipa": "actionable /ˈæk.ʃən.ə.bəl/",
+     "pos": "n. phr.",
+     "meaning": "可執行的建議",
+     "usage": "actionable＝能付諸行動的；職場常見 actionable insights / steps / feedback。",
+     "example": "Please give me actionable feedback, not just general comments.",
+     "trans": "請給我可以執行的回饋，不要只是籠統意見。"
+    },
+    {
+     "n": 277,
+     "cat": "chunk",
+     "term": "the upward spiral",
+     "ipa": "spiral /ˈspaɪ.rəl/",
+     "pos": "n. phr.",
+     "meaning": "向上螺旋、良性循環",
+     "usage": "反義 downward spiral（惡性循環、每況愈下）。spiral 也可當動詞：costs spiraled（成本急速攀升）。",
+     "example": "After losing his job, he fell into a downward spiral.",
+     "trans": "失業之後，他陷入了惡性循環。"
+    },
+    {
+     "n": 278,
+     "cat": "chunk",
+     "term": "continual improvement",
+     "ipa": "continual /kənˈtɪn.ju.əl/",
+     "pos": "n. phr.",
+     "meaning": "持續改進",
+     "usage": "continual＝反覆不斷的；continuous＝不間斷的，兩者常混用。企業管理常說 continuous improvement（如 Kaizen）。",
+     "example": "Our culture is built on continual improvement.",
+     "trans": "我們的文化建立在持續改進之上。"
+    },
+    {
+     "n": 279,
+     "cat": "chunk",
+     "term": "track one's progress / successes",
+     "ipa": "",
+     "pos": "v. phr.",
+     "meaning": "追蹤自己的進度／成果",
+     "usage": "track 當動詞＝記錄追蹤：track expenses / orders / habits；keep track of 也常用。",
+     "example": "I use an app to track my spending.",
+     "trans": "我用 App 追蹤自己的花費。"
+    },
+    {
+     "n": 280,
+     "cat": "chunk",
+     "term": "week after week",
+     "ipa": "",
+     "pos": "phr.",
+     "meaning": "一週又一週、每週持續",
+     "usage": "N after N 表持續重複：day after day、year after year。",
+     "example": "She delivered strong results week after week.",
+     "trans": "她每週都交出亮眼的成績。"
+    },
+    {
+     "n": 281,
+     "cat": "chunk",
+     "term": "keep one's spirits high",
+     "ipa": "",
+     "pos": "v. phr.",
+     "meaning": "保持好心情、維持士氣",
+     "usage": "spirits（複數）＝心情、情緒：in high / low spirits；lift sb's spirits＝讓人振作。",
+     "example": "The manager ordered pizza to keep everyone's spirits high.",
+     "trans": "經理訂了披薩讓大家保持好心情。"
+    },
+    {
+     "n": 282,
+     "cat": "chunk",
+     "term": "move forward",
+     "ipa": "",
+     "pos": "phr. v.",
+     "meaning": "向前邁進、推進",
+     "usage": "職場常用：move forward with the plan（推進計畫）、Moving forward, …（從今以後）。",
+     "example": "Moving forward, all requests should go through the portal.",
+     "trans": "從今以後，所有申請都要透過入口網站提出。"
+    },
+    {
+     "n": 283,
+     "cat": "word",
+     "term": "self-improvement",
+     "ipa": "/ˌself.ɪmˈpruːv.mənt/",
+     "pos": "n.",
+     "meaning": "自我提升",
+     "usage": "近義 personal growth、self-development；相關 #16 self-help。",
+     "example": "She spends an hour a day on self-improvement.",
+     "trans": "她每天花一小時自我提升。"
+    },
+    {
+     "n": 284,
+     "cat": "word",
+     "term": "internalize",
+     "ipa": "/ɪnˈtɝː.nə.laɪz/",
+     "pos": "v.",
+     "meaning": "內化、真正吸收",
+     "usage": "把觀念、價值變成自己的一部分：internalize values / feedback / rules。英式 internalise。",
+     "example": "It takes time to internalize new habits.",
+     "trans": "要真正內化新習慣需要時間。"
+    },
+    {
+     "n": 285,
+     "cat": "word",
+     "term": "ascend",
+     "ipa": "/əˈsend/",
+     "pos": "v.",
+     "meaning": "上升、攀登",
+     "usage": "正式；ascend the stairs / the throne / the corporate ladder。反義 descend；名詞 ascent。",
+     "example": "He quickly ascended the corporate ladder.",
+     "trans": "他很快就在公司裡步步高升。"
+    },
+    {
+     "n": 286,
+     "cat": "word",
+     "term": "evaluate",
+     "ipa": "/ɪˈvæl.ju.eɪt/",
+     "pos": "v.",
+     "meaning": "評估",
+     "usage": "evaluate performance / options / results；名詞 evaluation（performance evaluation 績效考核）。",
+     "example": "We evaluate each employee's performance twice a year.",
+     "trans": "我們每年評估員工績效兩次。"
+    },
+    {
+     "n": 287,
+     "cat": "pattern",
+     "term": "X isn't about… Instead, the most … way to… is to…",
+     "ipa": "",
+     "pos": "",
+     "meaning": "X 不在於……，而是……才是最……的方法",
+     "usage": "先否定常見誤解，再提出正解，適合總結或主張觀點。",
+     "example": "Leadership isn't about giving orders. Instead, the most effective way to lead is to set an example.",
+     "trans": "領導不在於下命令，最有效的領導方式是以身作則。"
+    },
+    {
+     "n": 288,
+     "cat": "pattern",
+     "term": "It's important both to… and to…",
+     "ipa": "",
+     "pos": "",
+     "meaning": "既要……，也要……，兩者都很重要",
+     "usage": "both A and B 平行結構，兩邊都用 to V。",
+     "example": "It's important both to celebrate wins and to learn from mistakes.",
+     "trans": "慶祝成功和從錯誤中學習同樣重要。"
+    },
+    {
+     "n": 289,
+     "cat": "pattern",
+     "term": "Seeing X will help keep… and motivate you to…",
+     "ipa": "",
+     "pos": "",
+     "meaning": "看到 X 會幫助你保持……並激勵你……",
+     "usage": "動名詞當主詞（Seeing…），help + 原形動詞；適合說明做法的效果。",
+     "example": "Seeing your progress on paper will help keep you focused and motivate you to continue.",
+     "trans": "把進度寫下來看得到，能幫你保持專注並激勵你繼續。"
+    },
+    {
+     "n": 290,
+     "cat": "pattern",
+     "term": "When you…, you'll slowly start to…",
+     "ipa": "",
+     "pos": "",
+     "meaning": "當你……，就會慢慢開始……",
+     "usage": "slowly start to 強調漸進的改變，語氣務實不誇大。",
+     "example": "When you practice every day, you'll slowly start to feel more confident.",
+     "trans": "當你每天練習，就會慢慢開始更有自信。"
+    }
+   ]
   }
  ]
 }
