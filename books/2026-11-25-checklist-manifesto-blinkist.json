@@ -1,0 +1,1836 @@
+{
+ "id": "2026-11-25-checklist-manifesto-blinkist",
+ "title": "Blinkist – The Checklist Manifesto",
+ "created": "2026-11-25",
+ "segments": [
+  {
+   "seg": 1,
+   "top": [
+    16,
+    19,
+    21
+   ],
+   "items": [
+    {
+     "n": 1,
+     "cat": "chunk",
+     "term": "a double-edged sword",
+     "ipa": "double-edged /ˌdʌb.əlˈedʒd/",
+     "pos": "n. phr.",
+     "meaning": "雙面刃",
+     "usage": "指同時帶來好處與壞處的事物，常搭配 become / prove to be / is a double-edged sword。",
+     "example": "Social media is a double-edged sword for small businesses: it offers free exposure but also invites public criticism.",
+     "trans": "社群媒體對小型企業來說是把雙面刃：它提供免費曝光，但也招來公開批評。"
+    },
+    {
+     "n": 2,
+     "cat": "chunk",
+     "term": "a whole host of + 複數名詞",
+     "ipa": "host /hoʊst/",
+     "pos": "n. phr.",
+     "meaning": "大量的、各式各樣的",
+     "usage": "比 a lot of 正式，強調「種類多」，常用於列舉前。",
+     "example": "The new software update fixes a whole host of security issues.",
+     "trans": "這次軟體更新修補了一大堆安全漏洞。"
+    },
+    {
+     "n": 3,
+     "cat": "chunk",
+     "term": "in the first place",
+     "ipa": "",
+     "pos": "phr.",
+     "meaning": "從一開始；根本",
+     "usage": "文中指「從源頭（預防問題發生）」。另一常見用法是質疑語氣：Why did you agree in the first place?（你當初幹嘛答應？）",
+     "example": "The best way to deal with debt is not to get into it in the first place.",
+     "trans": "處理債務最好的方法，就是一開始別欠債。"
+    },
+    {
+     "n": 4,
+     "cat": "chunk",
+     "term": "be clueless about",
+     "ipa": "clueless /ˈkluː.ləs/",
+     "pos": "adj. phr.",
+     "meaning": "對……一無所知",
+     "usage": "口語偏多，帶點「完全搞不清楚狀況」的意味。文中加上 fairly 緩和語氣。與 #84 have no clue 同一家族。",
+     "example": "When I started my first job, I was completely clueless about how expense reports worked.",
+     "trans": "我剛開始第一份工作時，完全不知道報帳是怎麼運作的。"
+    },
+    {
+     "n": 5,
+     "cat": "chunk",
+     "term": "be under immense pressure to + V",
+     "ipa": "immense /ɪˈmens/",
+     "pos": "phr.",
+     "meaning": "承受極大壓力去做……",
+     "usage": "immense 可替換為 enormous / intense / mounting。",
+     "example": "The sales team is under immense pressure to hit their quarterly targets.",
+     "trans": "業務團隊承受著極大壓力，必須達成季度目標。"
+    },
+    {
+     "n": 6,
+     "cat": "chunk",
+     "term": "carry out",
+     "ipa": "",
+     "pos": "phr. v.",
+     "meaning": "執行、實施",
+     "usage": "受詞常為 a plan / a task / research / a procedure / an experiment，比 do 正式。",
+     "example": "The audit was carried out by an independent firm.",
+     "trans": "這次稽核是由一家獨立的公司執行的。"
+    },
+    {
+     "n": 7,
+     "cat": "chunk",
+     "term": "with precision",
+     "ipa": "precision /prɪˈsɪʒ.ən/",
+     "pos": "phr.",
+     "meaning": "精準地",
+     "usage": "= precisely，但放在句尾更有力。常見 with great precision。",
+     "example": "The robot arm can assemble tiny components with remarkable precision.",
+     "trans": "這支機械手臂能以驚人的精準度組裝微小零件。"
+    },
+    {
+     "n": 8,
+     "cat": "chunk",
+     "term": "cope with",
+     "ipa": "cope /koʊp/",
+     "pos": "phr. v.",
+     "meaning": "應付、處理（困難）",
+     "usage": "強調「勉力應對」困境或壓力，比 deal with 多了「辛苦」的感覺。",
+     "example": "Many employees struggled to cope with the sudden shift to remote work.",
+     "trans": "許多員工難以應付突然轉為遠端工作的變化。"
+    },
+    {
+     "n": 9,
+     "cat": "chunk",
+     "term": "puff on (a cigarette/cigar)",
+     "ipa": "puff /pʌf/",
+     "pos": "phr. v.",
+     "meaning": "吸（菸）",
+     "usage": "指一口一口地抽，畫面感強。",
+     "example": "He sat on the porch, puffing on his pipe and watching the sunset.",
+     "trans": "他坐在門廊上，抽著菸斗看夕陽。"
+    },
+    {
+     "n": 10,
+     "cat": "chunk",
+     "term": "potentially fatal",
+     "ipa": "fatal /ˈfeɪ.t̬əl/",
+     "pos": "adj. phr.",
+     "meaning": "可能致命的",
+     "usage": "醫療、安全相關文章的高頻搭配，也常見 potentially dangerous / costly / harmful。近義見 #113 lethal。",
+     "example": "Mixing these two medications can cause a potentially fatal reaction.",
+     "trans": "混用這兩種藥物可能會引起致命的反應。"
+    },
+    {
+     "n": 11,
+     "cat": "word",
+     "term": "sparse",
+     "ipa": "/spɑːrs/",
+     "pos": "adj.",
+     "meaning": "稀少的、零星的",
+     "usage": "常形容資訊、人口、植被。sparse information、sparsely populated（人口稀少的）。",
+     "example": "Details about the merger remain sparse.",
+     "trans": "關於這次合併的細節仍然很少。"
+    },
+    {
+     "n": 12,
+     "cat": "word",
+     "term": "accumulate",
+     "ipa": "/əˈkjuː.mjə.leɪt/",
+     "pos": "v.",
+     "meaning": "累積",
+     "usage": "可及物也可不及物。accumulate wealth / knowledge / experience；Dust accumulated on the shelves.",
+     "example": "Over the years, she has accumulated a wealth of experience in project management.",
+     "trans": "這些年來，她在專案管理上累積了豐富的經驗。"
+    },
+    {
+     "n": 13,
+     "cat": "word",
+     "term": "ineptitude",
+     "ipa": "/ɪˈnep.tə.tuːd/",
+     "pos": "n.",
+     "meaning": "無能、笨拙",
+     "usage": "形容詞為 inept（#156）。作者用它指「有知識卻無法正確運用」，不是單純的無知（ignorance）。",
+     "example": "The company's losses were blamed on the ineptitude of its management.",
+     "trans": "公司的虧損被歸咎於管理層的無能。"
+    },
+    {
+     "n": 14,
+     "cat": "word",
+     "term": "simultaneously",
+     "ipa": "/ˌsaɪ.məlˈteɪ.ni.əs.li/",
+     "pos": "adv.",
+     "meaning": "同時地",
+     "usage": "比 at the same time 正式，寫作常用。",
+     "example": "The film will be released simultaneously in theaters and online.",
+     "trans": "這部電影將在戲院和線上同步上映。"
+    },
+    {
+     "n": 15,
+     "cat": "word",
+     "term": "overwhelming",
+     "ipa": "/ˌoʊ.vɚˈwel.mɪŋ/",
+     "pos": "adj.",
+     "meaning": "壓倒性的、令人難以招架的",
+     "usage": "兩種意思：①令人喘不過氣（an overwhelming workload）；②壓倒性的（an overwhelming majority）。本文是①。",
+     "example": "The amount of information online can be overwhelming for beginners.",
+     "trans": "網路上的資訊量對初學者來說可能多到令人難以招架。"
+    },
+    {
+     "n": 16,
+     "cat": "word",
+     "term": "X and Y alike",
+     "ipa": "alike /əˈlaɪk/",
+     "pos": "adv.",
+     "meaning": "X 和 Y 都……",
+     "usage": "放在名詞後面，強調「兩者皆然」，很道地的寫法。",
+     "example": "The new policy has been criticized by teachers and parents alike.",
+     "trans": "新政策受到老師和家長一致的批評。"
+    },
+    {
+     "n": 17,
+     "cat": "pattern",
+     "term": "Imagine + V-ing…",
+     "ipa": "",
+     "pos": "",
+     "meaning": "想像一下……",
+     "usage": "文章開頭吸引讀者的經典手法，注意 imagine 後接動名詞。可搭配 #99 Think how…。",
+     "example": "Imagine working in an office with no internet connection.",
+     "trans": "想像一下在沒有網路的辦公室工作。"
+    },
+    {
+     "n": 18,
+     "cat": "pattern",
+     "term": "As little as + 數量",
+     "ipa": "",
+     "pos": "",
+     "meaning": "僅僅……（強調少）",
+     "usage": "對應 as many/much as（多達）。文中強調「才不過 60 年前」。",
+     "example": "You can start investing with as little as $100.",
+     "trans": "你只要 100 美元就能開始投資。"
+    },
+    {
+     "n": 19,
+     "cat": "pattern",
+     "term": "Add to that + N, and we see…",
+     "ipa": "",
+     "pos": "",
+     "meaning": "再加上……，我們就會發現……",
+     "usage": "補充論點、層層推進的寫法，正式寫作和簡報都很好用。",
+     "example": "Rents have doubled in five years. Add to that rising food prices, and it's no wonder young people are struggling.",
+     "trans": "房租五年內翻倍。再加上食物價格上漲，難怪年輕人過得很辛苦。"
+    },
+    {
+     "n": 20,
+     "cat": "pattern",
+     "term": "no one + N + can possibly + V",
+     "ipa": "",
+     "pos": "",
+     "meaning": "沒有任何一個……可能……",
+     "usage": "no one 當形容詞修飾名詞，強調「單靠任何一個都不行」；possibly 加強否定語氣。",
+     "example": "No one person can possibly handle all these responsibilities.",
+     "trans": "沒有任何一個人有辦法獨自扛下這些責任。"
+    },
+    {
+     "n": 21,
+     "cat": "pattern",
+     "term": "if we are to + V",
+     "ipa": "",
+     "pos": "",
+     "meaning": "如果我們想要……（就必須……）",
+     "usage": "表示「達成某目標的前提」，主要子句常有 must / need / is needed。比 if we want to 正式。",
+     "example": "We need to cut costs if we are to survive the downturn.",
+     "trans": "如果我們想撐過這波景氣低迷，就必須削減成本。"
+    }
+   ]
+  },
+  {
+   "seg": 2,
+   "top": [
+    22,
+    25,
+    32
+   ],
+   "items": [
+    {
+     "n": 22,
+     "cat": "chunk",
+     "term": "meet with + N",
+     "ipa": "",
+     "pos": "phr. v.",
+     "meaning": "遭遇（某種情況或反應）",
+     "usage": "較正式，受詞常為 success / resistance / opposition / an accident / criticism。注意與「和某人見面」的 meet with someone 區分。",
+     "example": "The proposal met with strong resistance from the board.",
+     "trans": "這項提案遭到董事會強烈反對。"
+    },
+    {
+     "n": 23,
+     "cat": "chunk",
+     "term": "dire circumstances",
+     "ipa": "dire /daɪr/",
+     "pos": "n. phr.",
+     "meaning": "危急的處境",
+     "usage": "dire 意為「極其嚴重、危急的」，常見 dire consequences（嚴重後果）、in dire need of（急需）、dire warning（嚴正警告）。",
+     "example": "The hospital is in dire need of more nurses.",
+     "trans": "這家醫院急需更多護理師。"
+    },
+    {
+     "n": 24,
+     "cat": "chunk",
+     "term": "copious amounts of + N",
+     "ipa": "copious /ˈkoʊ.pi.əs/",
+     "pos": "n. phr.",
+     "meaning": "大量的……",
+     "usage": "copious 偏正式，常搭 notes、amounts。take copious notes 是「做詳盡的筆記」。",
+     "example": "She took copious notes during the training session.",
+     "trans": "她在培訓課程中做了詳盡的筆記。"
+    },
+    {
+     "n": 25,
+     "cat": "chunk",
+     "term": "with + adj. + regularity",
+     "ipa": "regularity /ˌreɡ.jəˈler.ə.t̬i/",
+     "pos": "phr.",
+     "meaning": "以……的頻率（頻繁地）",
+     "usage": "文中 with scary regularity 帶點戲謔，常見替換 with alarming / surprising / monotonous regularity。",
+     "example": "The train breaks down with alarming regularity.",
+     "trans": "這班列車故障的頻率高得驚人。"
+    },
+    {
+     "n": 26,
+     "cat": "chunk",
+     "term": "result in + N",
+     "ipa": "",
+     "pos": "phr. v.",
+     "meaning": "導致……",
+     "usage": "注意方向：「原因 + result in + 結果」；反過來是「結果 + result from + 原因」。與 #139 as a result of 互補。",
+     "example": "A single typo in the code resulted in a system-wide outage.",
+     "trans": "程式碼裡的一個錯字導致整個系統停擺。"
+    },
+    {
+     "n": 27,
+     "cat": "chunk",
+     "term": "as + adj. + as it sounds",
+     "ipa": "",
+     "pos": "phr.",
+     "meaning": "就像聽起來那樣……",
+     "usage": "常見 It's not as easy as it sounds.（沒有聽起來那麼簡單），口語寫作都好用。",
+     "example": "Running a café isn't as relaxing as it sounds.",
+     "trans": "經營咖啡店並不像聽起來那麼悠閒。"
+    },
+    {
+     "n": 28,
+     "cat": "chunk",
+     "term": "function as + N",
+     "ipa": "function /ˈfʌŋk.ʃən/",
+     "pos": "phr. v.",
+     "meaning": "作為……、發揮……的作用",
+     "usage": "= serve as，強調功能。",
+     "example": "The spare bedroom also functions as a home office.",
+     "trans": "那間客房也兼作家庭辦公室。"
+    },
+    {
+     "n": 29,
+     "cat": "chunk",
+     "term": "a safety net",
+     "ipa": "",
+     "pos": "n. phr.",
+     "meaning": "安全網、保障",
+     "usage": "比喻「防止失誤或損失的保障」，常見 provide a safety net、financial safety net。",
+     "example": "An emergency fund acts as a safety net if you lose your job.",
+     "trans": "緊急預備金在你失業時能發揮安全網的作用。"
+    },
+    {
+     "n": 30,
+     "cat": "chunk",
+     "term": "proceed (any) further",
+     "ipa": "proceed /proʊˈsiːd/",
+     "pos": "phr. v.",
+     "meaning": "繼續進行下去",
+     "usage": "proceed 比 continue / go on 正式；proceed with + N（繼續進行某事）、proceed to + V（接著去做）。",
+     "example": "Please read the terms carefully before you proceed any further.",
+     "trans": "在繼續之前，請仔細閱讀條款。"
+    },
+    {
+     "n": 31,
+     "cat": "chunk",
+     "term": "check off",
+     "ipa": "",
+     "pos": "phr. v.",
+     "meaning": "（在清單上）打勾、劃掉",
+     "usage": "check something off (the list)，完成一項就劃掉一項。英式英文常用 tick off。",
+     "example": "I like to check off each task as soon as I finish it.",
+     "trans": "我喜歡每完成一項任務就馬上把它劃掉。"
+    },
+    {
+     "n": 32,
+     "cat": "chunk",
+     "term": "be (better) equipped to + V",
+     "ipa": "equipped /ɪˈkwɪpt/",
+     "pos": "phr.",
+     "meaning": "有（更好的）能力去做……",
+     "usage": "原意是「配備」，引申為「具備能力或條件」。也常見 be well-equipped to、be ill-equipped to（沒能力應付）。",
+     "example": "Many schools are ill-equipped to support students with special needs.",
+     "trans": "許多學校沒有足夠的條件支援有特殊需求的學生。"
+    },
+    {
+     "n": 33,
+     "cat": "chunk",
+     "term": "unique to + N",
+     "ipa": "unique /juːˈniːk/",
+     "pos": "adj. phr.",
+     "meaning": "……特有的、獨有的",
+     "usage": "注意介系詞用 to。",
+     "example": "This species of bird is unique to Taiwan.",
+     "trans": "這種鳥是台灣特有種。"
+    },
+    {
+     "n": 34,
+     "cat": "chunk",
+     "term": "a nasty surprise",
+     "ipa": "nasty /ˈnæs.ti/",
+     "pos": "n. phr.",
+     "meaning": "令人不快的意外",
+     "usage": "nasty 意為「令人不快的、惡劣的」，相對於 a pleasant surprise。也可說 come as a nasty surprise。",
+     "example": "The huge phone bill came as a nasty surprise.",
+     "trans": "那張巨額電話帳單讓人措手不及。"
+    },
+    {
+     "n": 35,
+     "cat": "word",
+     "term": "incision",
+     "ipa": "/ɪnˈsɪʒ.ən/",
+     "pos": "n.",
+     "meaning": "（手術的）切口",
+     "usage": "醫療常用字，動詞 make an incision。相關字 incisive（犀利的、一針見血的），可形容評論或分析。",
+     "example": "The surgeon made a small incision just below the ribs.",
+     "trans": "外科醫生在肋骨下方開了一個小切口。"
+    },
+    {
+     "n": 36,
+     "cat": "word",
+     "term": "crucial",
+     "ipa": "/ˈkruː.ʃəl/",
+     "pos": "adj.",
+     "meaning": "關鍵的、至關重要的",
+     "usage": "比 important 更強烈，常見 play a crucial role in、It is crucial that…。與 #57 vital 同級。",
+     "example": "The first five minutes of an interview are crucial.",
+     "trans": "面試的前五分鐘至關重要。"
+    },
+    {
+     "n": 37,
+     "cat": "word",
+     "term": "tackle",
+     "ipa": "/ˈtæk.əl/",
+     "pos": "v.",
+     "meaning": "處理、著手解決（難題）",
+     "usage": "受詞常為 a problem / an issue / a challenge，帶有「積極面對」的感覺，比 deal with 更主動。",
+     "example": "The government has pledged to tackle youth unemployment.",
+     "trans": "政府承諾要解決青年失業問題。"
+    },
+    {
+     "n": 38,
+     "cat": "word",
+     "term": "avoidable",
+     "ipa": "/əˈvɔɪ.də.bəl/",
+     "pos": "adj.",
+     "meaning": "可避免的",
+     "usage": "常見 easily avoidable、entirely avoidable；反義字 unavoidable、inevitable。",
+     "example": "The delay was entirely avoidable if we had planned ahead.",
+     "trans": "要是我們事先規劃好，這次延誤完全可以避免。"
+    },
+    {
+     "n": 39,
+     "cat": "pattern",
+     "term": "It was only after + N/子句 + that + 子句",
+     "ipa": "",
+     "pos": "",
+     "meaning": "直到……才……",
+     "usage": "強調句型，把重點放在「時間點」，比 We didn't notice until… 更有戲劇性。",
+     "example": "It was only after I moved abroad that I realized how much I missed home cooking.",
+     "trans": "直到我搬到國外，才發現自己有多想念家常菜。"
+    },
+    {
+     "n": 40,
+     "cat": "pattern",
+     "term": "It is + X + that…（強調句）",
+     "ipa": "",
+     "pos": "",
+     "meaning": "正是 X……",
+     "usage": "文中 it is the obvious steps… that are often most crucial，把「顯而易見的步驟」放到焦點位置。",
+     "example": "It is not the price but the service that keeps customers coming back.",
+     "trans": "讓客人一再回流的不是價格，而是服務。"
+    },
+    {
+     "n": 41,
+     "cat": "pattern",
+     "term": "If + S + had p.p., S + would have p.p.",
+     "ipa": "",
+     "pos": "",
+     "meaning": "如果當時……，就會……（與過去事實相反）",
+     "usage": "假設語氣第三類，用於檢討過去、分析「本可以如何」。變化版見 #82。",
+     "example": "If we had backed up the files, we wouldn't have lost a week's work.",
+     "trans": "如果我們當時有備份檔案，就不會損失一整週的工作成果了。"
+    }
+   ]
+  },
+  {
+   "seg": 3,
+   "top": [
+    43,
+    48,
+    50
+   ],
+   "items": [
+    {
+     "n": 42,
+     "cat": "chunk",
+     "term": "scoff at + N",
+     "ipa": "scoff /skɑːf/",
+     "pos": "phr. v.",
+     "meaning": "嘲笑、對……嗤之以鼻",
+     "usage": "帶有「瞧不起、不當一回事」的意味，常用 It's easy to scoff at…（很容易對……不屑一顧）。",
+     "example": "Many people scoffed at the idea of online shopping in the 1990s.",
+     "trans": "1990 年代，很多人對網購這個點子嗤之以鼻。"
+    },
+    {
+     "n": 43,
+     "cat": "chunk",
+     "term": "a glorified + N",
+     "ipa": "glorified /ˈɡlɔːr.ə.faɪd/",
+     "pos": "n. phr.",
+     "meaning": "美其名為……，其實只是……",
+     "usage": "帶貶意，指某物被包裝得很好聽，本質卻很普通。非常道地的口語寫法。",
+     "example": "His job title is \"logistics coordinator,\" but he's really just a glorified delivery driver.",
+     "trans": "他的職稱是「物流協調員」，但其實只是個名號好聽的送貨司機。"
+    },
+    {
+     "n": 44,
+     "cat": "chunk",
+     "term": "killer + N",
+     "ipa": "killer /ˈkɪl.ɚ/",
+     "pos": "n. phr.",
+     "meaning": "關鍵的、致命的……",
+     "usage": "killer 當形容詞，可指「極具殺傷力（重要）」或「超棒的」。常見 killer app、killer feature、killer question。",
+     "example": "The camera is the killer feature of this new phone.",
+     "trans": "相機是這支新手機的殺手級功能。"
+    },
+    {
+     "n": 45,
+     "cat": "chunk",
+     "term": "a veteran + N",
+     "ipa": "veteran /ˈvet̬.ɚ.ən/",
+     "pos": "n. phr.",
+     "meaning": "資深的……、老手",
+     "usage": "veteran 除了「退伍軍人」，放名詞前表示「經驗豐富的」，如 veteran journalist / actor / teacher。",
+     "example": "The project is led by a veteran engineer with 30 years of experience.",
+     "trans": "這個專案由一位擁有 30 年經驗的資深工程師帶領。"
+    },
+    {
+     "n": 46,
+     "cat": "chunk",
+     "term": "go through + N",
+     "ipa": "",
+     "pos": "phr. v.",
+     "meaning": "仔細查看、逐一過一遍",
+     "usage": "go through a list / the details / the contract。另一常見意思是「經歷（困難）」：go through a tough time。與 #107 run through 相近。",
+     "example": "Let's go through the agenda before the meeting starts.",
+     "trans": "會議開始前，我們先把議程過一遍吧。"
+    },
+    {
+     "n": 47,
+     "cat": "chunk",
+     "term": "read out",
+     "ipa": "",
+     "pos": "phr. v.",
+     "meaning": "大聲唸出來",
+     "usage": "read out + N 或 read + N + out。也可說 read aloud。",
+     "example": "The teacher read out the names of the students who passed.",
+     "trans": "老師唸出了及格學生的名字。"
+    },
+    {
+     "n": 48,
+     "cat": "chunk",
+     "term": "as + 主詞 + go",
+     "ipa": "",
+     "pos": "phr.",
+     "meaning": "一邊進行一邊……",
+     "usage": "文中 checking them off as they went 指「邊做邊打勾」。常見 learn as you go（邊做邊學）、make it up as you go（見機行事）。",
+     "example": "Don't worry about memorizing everything—you'll pick it up as you go.",
+     "trans": "別擔心要記住所有東西，你會邊做邊學會的。"
+    },
+    {
+     "n": 49,
+     "cat": "chunk",
+     "term": "take care to + V",
+     "ipa": "",
+     "pos": "phr.",
+     "meaning": "注意要……、小心地……",
+     "usage": "比 be careful to 正式，強調刻意留心。",
+     "example": "Please take care to lock the door when you leave the office.",
+     "trans": "離開辦公室時請記得鎖門。"
+    },
+    {
+     "n": 50,
+     "cat": "chunk",
+     "term": "leave no room for + N",
+     "ipa": "",
+     "pos": "phr.",
+     "meaning": "不留……的餘地",
+     "usage": "常見 leave no room for error / doubt / misunderstanding；正面說法 leave room for improvement（有改進空間）。",
+     "example": "The contract was written to leave no room for misinterpretation.",
+     "trans": "這份合約的寫法不留任何誤解的空間。"
+    },
+    {
+     "n": 51,
+     "cat": "chunk",
+     "term": "user friendly",
+     "ipa": "",
+     "pos": "adj. phr.",
+     "meaning": "易於使用的",
+     "usage": "放名詞前通常加連字號：a user-friendly interface；放 be 動詞後可不加。延伸用法 eco-friendly、budget-friendly。",
+     "example": "The new booking system is much more user-friendly than the old one.",
+     "trans": "新的訂位系統比舊的好用多了。"
+    },
+    {
+     "n": 52,
+     "cat": "word",
+     "term": "scrawl",
+     "ipa": "/skrɑːl/",
+     "pos": "v./n.",
+     "meaning": "潦草地寫；潦草的字跡",
+     "usage": "文中 scrawled reminders 指「隨手潦草寫下的提醒」。近義字 scribble。",
+     "example": "She scrawled her phone number on a napkin.",
+     "trans": "她把電話號碼潦草地寫在一張餐巾紙上。"
+    },
+    {
+     "n": 53,
+     "cat": "word",
+     "term": "concise",
+     "ipa": "/kənˈsaɪs/",
+     "pos": "adj.",
+     "meaning": "簡潔扼要的",
+     "usage": "常與 clear 連用：clear and concise。名詞 conciseness。",
+     "example": "Keep your emails concise—most people only read the first few lines.",
+     "trans": "信件要寫得簡潔扼要，大部分人只會看前幾行。"
+    },
+    {
+     "n": 54,
+     "cat": "word",
+     "term": "disregard",
+     "ipa": "/ˌdɪs.rɪˈɡɑːrd/",
+     "pos": "v./n.",
+     "meaning": "忽視、不理會",
+     "usage": "比 ignore 正式，常見 disregard the rules / warnings；名詞 with complete disregard for（完全不顧……）。",
+     "example": "He drove with complete disregard for the speed limit.",
+     "trans": "他開車完全無視速限。"
+    },
+    {
+     "n": 55,
+     "cat": "word",
+     "term": "disastrous",
+     "ipa": "/dɪˈzæs.trəs/",
+     "pos": "adj.",
+     "meaning": "災難性的、極糟的",
+     "usage": "可指真正的災害，也常用來誇張形容「結果很慘」：a disastrous first date。",
+     "example": "The product launch was disastrous—the website crashed within minutes.",
+     "trans": "這次產品發表會慘不忍睹，網站幾分鐘內就當機了。"
+    },
+    {
+     "n": 56,
+     "cat": "word",
+     "term": "thorough",
+     "ipa": "/ˈθɝː.oʊ/",
+     "pos": "adj.",
+     "meaning": "徹底的、詳盡的",
+     "usage": "常見 a thorough investigation / check / review；副詞 thoroughly（thoroughly enjoyed 非常享受）。",
+     "example": "The police carried out a thorough search of the building.",
+     "trans": "警方對大樓進行了徹底搜查。"
+    },
+    {
+     "n": 57,
+     "cat": "word",
+     "term": "vital",
+     "ipa": "/ˈvaɪ.t̬əl/",
+     "pos": "adj.",
+     "meaning": "極其重要的、不可或缺的",
+     "usage": "與 #36 crucial 同級，常見 play a vital role、It is vital that…、vital signs（生命徵象）。",
+     "example": "Regular maintenance is vital to keeping the machines running smoothly.",
+     "trans": "定期保養對機器順暢運作至關重要。"
+    },
+    {
+     "n": 58,
+     "cat": "word",
+     "term": "implement",
+     "ipa": "/ˈɪm.plə.ment/",
+     "pos": "v.",
+     "meaning": "實施、執行（計畫、政策、系統）",
+     "usage": "商務高頻字，受詞常為 a policy / a system / changes / a strategy；名詞 implementation。",
+     "example": "The company plans to implement a four-day workweek next year.",
+     "trans": "公司計畫明年實施每週四天工作制。"
+    },
+    {
+     "n": 59,
+     "cat": "pattern",
+     "term": "It's easy to + V, particularly as…",
+     "ipa": "",
+     "pos": "",
+     "meaning": "……很容易，尤其是因為……",
+     "usage": "先承認某種常見想法，再用 However 反駁，是議論文開頭的好用架構。與 #118 同類。",
+     "example": "It's easy to dismiss small savings, particularly as prices keep rising. However, they add up over time.",
+     "trans": "小額儲蓄很容易被忽略，尤其是物價持續上漲的時候。但長期下來，這些錢會累積起來。"
+    },
+    {
+     "n": 60,
+     "cat": "pattern",
+     "term": "rather than V-ing – as + 主詞 + had intended – …",
+     "ipa": "",
+     "pos": "",
+     "meaning": "而不是像某人原本打算的那樣……",
+     "usage": "用破折號插入 as X had intended，點出「實際做法」與「原本意圖」的落差。",
+     "example": "The team rushed to finish the report rather than reviewing each section carefully, as the manager had intended.",
+     "trans": "團隊急著趕完報告，而沒有照經理原本的意思逐段仔細審閱。"
+    },
+    {
+     "n": 61,
+     "cat": "pattern",
+     "term": "The next time + 子句, + 祈使句",
+     "ipa": "",
+     "pos": "",
+     "meaning": "下次……的時候，記得……",
+     "usage": "The next time 直接當連接詞，不需要 when。適合文章結尾的行動呼籲。",
+     "example": "The next time you feel stressed, try taking a short walk outside.",
+     "trans": "下次覺得有壓力時，試著到外面散散步。"
+    }
+   ]
+  },
+  {
+   "seg": 4,
+   "top": [
+    63,
+    64,
+    71
+   ],
+   "items": [
+    {
+     "n": 62,
+     "cat": "chunk",
+     "term": "stride into + 地方",
+     "ipa": "stride /straɪd/",
+     "pos": "phr. v.",
+     "meaning": "大步走進……",
+     "usage": "stride 是「邁大步走」，帶有自信、果斷的感覺。過去式 strode。另有片語 take something in stride（從容應對）。",
+     "example": "She strode into the meeting room and took charge immediately.",
+     "trans": "她大步走進會議室，立刻掌控了局面。"
+    },
+    {
+     "n": 63,
+     "cat": "chunk",
+     "term": "in one fell swoop",
+     "ipa": "swoop /swuːp/",
+     "pos": "idiom",
+     "meaning": "一舉、一下子全部",
+     "usage": "源自莎士比亞《馬克白》，指「一次就（把所有事）解決」，可正面也可負面。",
+     "example": "The new law eliminated dozens of outdated regulations in one fell swoop.",
+     "trans": "新法一舉廢除了數十條過時的規定。"
+    },
+    {
+     "n": 64,
+     "cat": "chunk",
+     "term": "count (= matter)",
+     "ipa": "",
+     "pos": "v.",
+     "meaning": "重要、有價值",
+     "usage": "文中 it is the team that really counts 的 count = matter。常見 Every vote counts.、What counts is…（重要的是……）。",
+     "example": "It's not how much you earn that counts, but how you spend it.",
+     "trans": "重要的不是你賺多少，而是你怎麼花。"
+    },
+    {
+     "n": 65,
+     "cat": "chunk",
+     "term": "everything from A to B",
+     "ipa": "",
+     "pos": "phr.",
+     "meaning": "從 A 到 B 無所不包",
+     "usage": "強調範圍廣，A 和 B 通常是差異很大的兩端。同家族見 #105、#140。",
+     "example": "The store sells everything from groceries to garden furniture.",
+     "trans": "這家店從日常雜貨到庭園家具什麼都賣。"
+    },
+    {
+     "n": 66,
+     "cat": "chunk",
+     "term": "a team effort",
+     "ipa": "",
+     "pos": "n. phr.",
+     "meaning": "團隊合作的成果",
+     "usage": "常用來謙虛地分享功勞：It was a team effort.",
+     "example": "Winning the contract was a team effort—everyone played a part.",
+     "trans": "拿下這份合約是團隊共同努力的成果，每個人都有貢獻。"
+    },
+    {
+     "n": 67,
+     "cat": "chunk",
+     "term": "combined effort(s)",
+     "ipa": "combined /kəmˈbaɪnd/",
+     "pos": "n. phr.",
+     "meaning": "共同努力",
+     "usage": "常見 thanks to the combined efforts of…（多虧了……的共同努力）。",
+     "example": "The fire was put out thanks to the combined efforts of firefighters and local volunteers.",
+     "trans": "多虧了消防員和當地志工的共同努力，火勢才被撲滅。"
+    },
+    {
+     "n": 68,
+     "cat": "chunk",
+     "term": "come through",
+     "ipa": "through /θruː/",
+     "pos": "phr. v.",
+     "meaning": "（消息、結果）傳來；（承諾、表現）兌現",
+     "usage": "文中指資訊陸續傳來。也可指「做到」：She always comes through for her team.（她總能為團隊交出成果）。",
+     "example": "We're still waiting for the test results to come through.",
+     "trans": "我們還在等檢驗結果出來。"
+    },
+    {
+     "n": 69,
+     "cat": "chunk",
+     "term": "It became evident (that)…",
+     "ipa": "evident /ˈev.ə.dənt/",
+     "pos": "phr.",
+     "meaning": "情況逐漸明朗……、很明顯……",
+     "usage": "evident = clear / obvious，偏正式。也常見 It is evident from… that…。",
+     "example": "It soon became evident that the project was over budget.",
+     "trans": "很快就看得出來這個專案超出預算了。"
+    },
+    {
+     "n": 70,
+     "cat": "chunk",
+     "term": "be faced with + N",
+     "ipa": "",
+     "pos": "phr.",
+     "meaning": "面臨……",
+     "usage": "受詞多為困難：be faced with a choice / a crisis / pressure。主動用法 face + N 也行。",
+     "example": "Small businesses are faced with rising costs and falling demand.",
+     "trans": "小型企業正面臨成本上升與需求下滑的困境。"
+    },
+    {
+     "n": 71,
+     "cat": "chunk",
+     "term": "as opposed to + N",
+     "ipa": "opposed /əˈpoʊzd/",
+     "pos": "phr.",
+     "meaning": "而不是……、相對於……",
+     "usage": "用來對比兩者，比 instead of 更強調差異，寫作很好用。",
+     "example": "I prefer to work in the morning, as opposed to late at night.",
+     "trans": "我偏好早上工作，而不是熬夜。"
+    },
+    {
+     "n": 72,
+     "cat": "chunk",
+     "term": "be left to + N",
+     "ipa": "",
+     "pos": "phr.",
+     "meaning": "交由……處理、全靠……",
+     "usage": "文中 can no longer be left to a lone hero 指「不能再全靠一位孤膽英雄」。常見 leave it to me、be left to chance（聽天由命）。",
+     "example": "Important decisions shouldn't be left to chance.",
+     "trans": "重要的決定不該交給運氣。"
+    },
+    {
+     "n": 73,
+     "cat": "word",
+     "term": "fearsome",
+     "ipa": "/ˈfɪr.səm/",
+     "pos": "adj.",
+     "meaning": "可怕的、令人畏懼的",
+     "usage": "可形容情況、對手、名聲：a fearsome reputation（令人畏懼的名聲）。",
+     "example": "The team faces a fearsome opponent in the final.",
+     "trans": "這支隊伍在決賽中將面對一個可怕的對手。"
+    },
+    {
+     "n": 74,
+     "cat": "word",
+     "term": "alluring",
+     "ipa": "/əˈlʊr.ɪŋ/",
+     "pos": "adj.",
+     "meaning": "誘人的、吸引人的",
+     "usage": "比 attractive 更有「讓人忍不住被吸引」的感覺，常形容想法、提議、香氣。",
+     "example": "The idea of working from a tropical beach is alluring, but the reality is less glamorous.",
+     "trans": "在熱帶海灘工作的想法很誘人，但現實沒那麼光鮮。"
+    },
+    {
+     "n": 75,
+     "cat": "word",
+     "term": "oversee",
+     "ipa": "/ˌoʊ.vɚˈsiː/",
+     "pos": "v.",
+     "meaning": "監督、負責管理",
+     "usage": "商務常用，受詞常為 a project / operations / a team。過去式 oversaw，過去分詞 overseen。名詞見 #150 oversight。",
+     "example": "She was hired to oversee the company's expansion into Southeast Asia.",
+     "trans": "她受聘負責監督公司在東南亞的擴張。"
+    },
+    {
+     "n": 76,
+     "cat": "word",
+     "term": "salute",
+     "ipa": "/səˈluːt/",
+     "pos": "v.",
+     "meaning": "致敬、讚揚",
+     "usage": "原意是「敬禮」，引申為公開表揚：salute someone as…（稱頌某人為……）。",
+     "example": "The mayor saluted the volunteers for their hard work.",
+     "trans": "市長向志工們的辛勞致敬。"
+    },
+    {
+     "n": 77,
+     "cat": "word",
+     "term": "miraculous",
+     "ipa": "/mɪˈræk.jə.ləs/",
+     "pos": "adj.",
+     "meaning": "奇蹟般的",
+     "usage": "常見 a miraculous recovery / escape；副詞 miraculously（Miraculously, no one was hurt.）。",
+     "example": "Doctors described his recovery as nothing short of miraculous.",
+     "trans": "醫生形容他的康復簡直是奇蹟。"
+    },
+    {
+     "n": 78,
+     "cat": "word",
+     "term": "undergo",
+     "ipa": "/ˌʌn.dɚˈɡoʊ/",
+     "pos": "v.",
+     "meaning": "經歷、接受（手術、變化、檢查）",
+     "usage": "受詞常為 surgery / treatment / changes / a test。過去式 underwent。",
+     "example": "The company is undergoing major restructuring.",
+     "trans": "這家公司正在進行大規模重組。"
+    },
+    {
+     "n": 79,
+     "cat": "word",
+     "term": "acknowledge",
+     "ipa": "/əkˈnɑː.lɪdʒ/",
+     "pos": "v.",
+     "meaning": "承認；認可",
+     "usage": "可接名詞或 that 子句，偏正式。商務信件常用 acknowledge receipt of（確認收到）。",
+     "example": "He acknowledged that he had underestimated the difficulty of the task.",
+     "trans": "他承認自己低估了這項任務的難度。"
+    },
+    {
+     "n": 80,
+     "cat": "word",
+     "term": "lone",
+     "ipa": "/loʊn/",
+     "pos": "adj.",
+     "meaning": "孤單的、唯一的",
+     "usage": "只能放名詞前：a lone survivor、a lone voice（唯一的反對聲音）。lone wolf 指「獨行俠」。",
+     "example": "She was the lone voice of dissent at the meeting.",
+     "trans": "她是會議上唯一提出異議的人。"
+    },
+    {
+     "n": 81,
+     "cat": "pattern",
+     "term": "There was a time (in…) when + 子句",
+     "ipa": "",
+     "pos": "",
+     "meaning": "曾經有一段時期……",
+     "usage": "用來對比過去與現在，後面常接 These days, however,…。",
+     "example": "There was a time when owning a mobile phone was a luxury. These days, however, almost everyone has one.",
+     "trans": "曾經有一段時期，擁有手機是種奢侈。然而如今幾乎人手一支。"
+    },
+    {
+     "n": 82,
+     "cat": "pattern",
+     "term": "S + would not have p.p. + as + adv. + as it did + without…",
+     "ipa": "",
+     "pos": "",
+     "meaning": "要不是有……，就不可能（像實際上那樣）……",
+     "usage": "假設語氣第三類的變化版（見 #41），用 without 取代 if 子句，強調某因素的關鍵性。",
+     "example": "The event would not have run as smoothly as it did without our volunteers.",
+     "trans": "要不是有志工們，活動不可能進行得這麼順利。"
+    }
+   ]
+  },
+  {
+   "seg": 5,
+   "top": [
+    89,
+    92,
+    96
+   ],
+   "items": [
+    {
+     "n": 83,
+     "cat": "chunk",
+     "term": "take the controls",
+     "ipa": "controls /kənˈtroʊlz/",
+     "pos": "phr.",
+     "meaning": "接手操控（飛機、車輛）",
+     "usage": "字面指接手駕駛，引申為「接管、掌控局面」。類似說法 take the wheel、take control (of)。",
+     "example": "When the manager fell ill, his deputy took the controls and kept the project on track.",
+     "trans": "經理生病時，副手接手掌舵，讓專案維持在正軌上。"
+    },
+    {
+     "n": 84,
+     "cat": "chunk",
+     "term": "have no clue (+ wh-)",
+     "ipa": "clue /kluː/",
+     "pos": "phr.",
+     "meaning": "完全不知道……",
+     "usage": "口語常用，後面可直接接 when / what / how to…。與 #4 be clueless about 同一家族。",
+     "example": "I have no clue how to fix this printer.",
+     "trans": "我完全不知道怎麼修這台印表機。"
+    },
+    {
+     "n": 85,
+     "cat": "chunk",
+     "term": "be aimed at + V-ing/N",
+     "ipa": "",
+     "pos": "phr.",
+     "meaning": "目的在於……、針對……",
+     "usage": "可指「目的」（aimed at reducing costs），也可指「對象」（aimed at young professionals）。",
+     "example": "The new policy is aimed at reducing employee turnover.",
+     "trans": "新政策的目的是降低員工流動率。"
+    },
+    {
+     "n": 86,
+     "cat": "chunk",
+     "term": "the flow of information",
+     "ipa": "",
+     "pos": "n. phr.",
+     "meaning": "資訊流通",
+     "usage": "常搭配 improve / restrict / control the flow of information。",
+     "example": "Weekly stand-up meetings help improve the flow of information across departments.",
+     "trans": "每週站立會議有助於改善跨部門的資訊流通。"
+    },
+    {
+     "n": 87,
+     "cat": "chunk",
+     "term": "check on + N",
+     "ipa": "",
+     "pos": "phr. v.",
+     "meaning": "查看、確認（某人或某事的狀況）",
+     "usage": "check on 強調「去看看狀況如何」：check on the kids、check on the progress。",
+     "example": "I'll call the supplier to check on the status of our order.",
+     "trans": "我會打電話給供應商確認我們訂單的進度。"
+    },
+    {
+     "n": 88,
+     "cat": "chunk",
+     "term": "advance to the next stage",
+     "ipa": "advance /ədˈvæns/",
+     "pos": "phr.",
+     "meaning": "進入下一階段",
+     "usage": "advance = move forward，比 go to 正式。也常見 advance to the final（晉級決賽）。",
+     "example": "Only three candidates will advance to the next stage of the interview process.",
+     "trans": "只有三位應徵者能進入下一階段的面試。"
+    },
+    {
+     "n": 89,
+     "cat": "chunk",
+     "term": "correlate with + N",
+     "ipa": "correlate /ˈkɔːr.ə.leɪt/",
+     "pos": "phr. v.",
+     "meaning": "與……相關、有關聯",
+     "usage": "學術與報告常用，強調「統計上有關聯」，不一定是因果。名詞 correlation（a strong correlation between A and B）。",
+     "example": "Higher levels of education tend to correlate with higher incomes.",
+     "trans": "較高的教育程度往往與較高的收入相關。"
+    },
+    {
+     "n": 90,
+     "cat": "chunk",
+     "term": "under pressured circumstances",
+     "ipa": "pressured /ˈpreʃ.ɚd/",
+     "pos": "phr.",
+     "meaning": "在高壓情況下",
+     "usage": "較常見的說法是 under pressure、in high-pressure situations；perform well under pressure 是履歷和面試常用語。",
+     "example": "We need someone who can stay calm and make sound decisions under pressure.",
+     "trans": "我們需要一個能在壓力下保持冷靜、做出明智決定的人。"
+    },
+    {
+     "n": 91,
+     "cat": "word",
+     "term": "conduct",
+     "ipa": "/kənˈdʌkt/",
+     "pos": "v.",
+     "meaning": "進行、實施",
+     "usage": "正式用字，受詞常為 a survey / an interview / research / an inspection / a safety check。注意名詞重音在前 /ˈkɑːn.dʌkt/。",
+     "example": "The company conducts an employee satisfaction survey every year.",
+     "trans": "公司每年都會進行員工滿意度調查。"
+    },
+    {
+     "n": 92,
+     "cat": "word",
+     "term": "seamless",
+     "ipa": "/ˈsiːm.ləs/",
+     "pos": "adj.",
+     "meaning": "流暢無縫的、順暢的",
+     "usage": "原指「無接縫的」，引申為「銜接完美、毫無阻礙」。常見 seamless transition / integration / experience。",
+     "example": "Our goal is to ensure a seamless transition to the new system.",
+     "trans": "我們的目標是確保順利無縫地轉換到新系統。"
+    },
+    {
+     "n": 93,
+     "cat": "word",
+     "term": "enhance",
+     "ipa": "/ɪnˈhæns/",
+     "pos": "v.",
+     "meaning": "提升、增強",
+     "usage": "比 improve 正式，常指「使原本好的更好」。受詞常為 performance / quality / reputation / experience。",
+     "example": "The renovation greatly enhanced the hotel's appeal to younger travelers.",
+     "trans": "這次翻修大幅提升了飯店對年輕旅客的吸引力。"
+    },
+    {
+     "n": 94,
+     "cat": "word",
+     "term": "outline",
+     "ipa": "/ˈaʊt.laɪn/",
+     "pos": "v./n.",
+     "meaning": "概述、列出要點；大綱",
+     "usage": "動詞 outline a plan / the main points；名詞 in outline（概略地）。",
+     "example": "In her presentation, she outlined three key strategies for next year.",
+     "trans": "她在簡報中概述了明年的三項關鍵策略。"
+    },
+    {
+     "n": 95,
+     "cat": "word",
+     "term": "collaborate",
+     "ipa": "/kəˈlæb.ə.reɪt/",
+     "pos": "v.",
+     "meaning": "合作、協作",
+     "usage": "collaborate with + 人 + on + 事。名詞 collaboration，形容詞 collaborative。",
+     "example": "Our design team is collaborating with a Japanese firm on the new product.",
+     "trans": "我們的設計團隊正與一家日本公司合作開發新產品。"
+    },
+    {
+     "n": 96,
+     "cat": "word",
+     "term": "huddle",
+     "ipa": "/ˈhʌd.əl/",
+     "pos": "n./v.",
+     "meaning": "（團隊）簡短的碰頭會議；聚在一起",
+     "usage": "源自美式足球的「圍成一圈討論戰術」，職場上指快速的小組討論：have a quick huddle。",
+     "example": "Let's have a quick huddle before the client arrives.",
+     "trans": "客戶到之前，我們先快速碰個頭吧。"
+    },
+    {
+     "n": 97,
+     "cat": "word",
+     "term": "mandatory",
+     "ipa": "/ˈmæn.də.tɔːr.i/",
+     "pos": "adj.",
+     "meaning": "強制的、必須的",
+     "usage": "= compulsory / required，反義字 optional。常見 mandatory training / attendance。",
+     "example": "Attendance at the safety training is mandatory for all new staff.",
+     "trans": "所有新進員工都必須參加安全培訓。"
+    },
+    {
+     "n": 98,
+     "cat": "word",
+     "term": "predefined",
+     "ipa": "/ˌpriː.dɪˈfaɪnd/",
+     "pos": "adj.",
+     "meaning": "預先設定的",
+     "usage": "常見於流程、系統文件：predefined criteria / templates / rules。同類字 predetermined、preset。",
+     "example": "Applications are screened against a set of predefined criteria.",
+     "trans": "申請案件會依照一套預先設定的標準進行篩選。"
+    },
+    {
+     "n": 99,
+     "cat": "pattern",
+     "term": "Think how + adj. + it would be if + 過去式…",
+     "ipa": "",
+     "pos": "",
+     "meaning": "想想看，如果……會有多……",
+     "usage": "假設語氣第二類，讓讀者想像情境、強化論點。與 #17 Imagine + V-ing 搭配效果更好。",
+     "example": "Think how stressful it would be if you lost your phone on a business trip.",
+     "trans": "想想看，如果你出差時弄丟手機，那會有多焦慮。"
+    },
+    {
+     "n": 100,
+     "cat": "pattern",
+     "term": "A, but unless B, …",
+     "ipa": "",
+     "pos": "",
+     "meaning": "除非……，否則……",
+     "usage": "用「讓步＋條件」強調前提的必要性。unless 子句用現在式表未來。",
+     "example": "You can have the best product on the market, but unless people know about it, it won't sell.",
+     "trans": "你可以擁有市面上最好的產品，但除非大家知道它，否則賣不出去。"
+    },
+    {
+     "n": 101,
+     "cat": "pattern",
+     "term": "A do not + V + as well as those who do",
+     "ipa": "",
+     "pos": "",
+     "meaning": "A 不如那些有……的人做得好",
+     "usage": "用 those who do 省略重複的動詞片語，是精簡比較句的好寫法。",
+     "example": "Employees who skip breaks often don't perform as well as those who do.",
+     "trans": "不休息的員工，表現往往不如有休息的人。"
+    }
+   ]
+  },
+  {
+   "seg": 6,
+   "top": [
+    103,
+    108,
+    111
+   ],
+   "items": [
+    {
+     "n": 102,
+     "cat": "chunk",
+     "term": "make a significant impact on + N",
+     "ipa": "impact /ˈɪm.pækt/",
+     "pos": "phr.",
+     "meaning": "對……產生重大影響",
+     "usage": "impact 前可換 huge / lasting / positive / little；介系詞用 on。也可說 have an impact on。",
+     "example": "Remote work has made a significant impact on commercial real estate.",
+     "trans": "遠距工作對商用不動產造成了重大影響。"
+    },
+    {
+     "n": 103,
+     "cat": "chunk",
+     "term": "end up + V-ing",
+     "ipa": "",
+     "pos": "phr. v.",
+     "meaning": "最後（竟然）……",
+     "usage": "強調「結果出乎原本預期」或「最終落得」。後接 V-ing、介系詞片語或形容詞：end up in hospital、end up broke。",
+     "example": "We planned a quick coffee but ended up talking for three hours.",
+     "trans": "我們本來只打算喝杯咖啡，結果聊了三個小時。"
+    },
+    {
+     "n": 104,
+     "cat": "chunk",
+     "term": "draw inspiration from + N",
+     "ipa": "inspiration /ˌɪn.spəˈreɪ.ʃən/",
+     "pos": "phr.",
+     "meaning": "從……汲取靈感",
+     "usage": "常放句首作分詞構句：Drawing inspiration from…, she designed…。也可說 take inspiration from。",
+     "example": "The architect drew inspiration from traditional Japanese temples.",
+     "trans": "這位建築師從日本傳統寺廟中汲取靈感。"
+    },
+    {
+     "n": 105,
+     "cat": "chunk",
+     "term": "ranging from A to B",
+     "ipa": "ranging /ˈreɪn.dʒɪŋ/",
+     "pos": "phr.",
+     "meaning": "範圍從 A 到 B",
+     "usage": "與 #65 everything from A to B 類似，但更正式，常接在名詞後作補充。",
+     "example": "The course attracts students ranging from high school graduates to retirees.",
+     "trans": "這門課吸引了從高中畢業生到退休人士各個年齡層的學生。"
+    },
+    {
+     "n": 106,
+     "cat": "chunk",
+     "term": "firsthand",
+     "ipa": "/ˌfɝːstˈhænd/",
+     "pos": "adv./adj.",
+     "meaning": "親身地、第一手的",
+     "usage": "witness / experience / see something firsthand；形容詞 firsthand experience / account。",
+     "example": "Visiting the factory allowed us to see firsthand how the products are made.",
+     "trans": "參觀工廠讓我們親眼看到產品是如何製造的。"
+    },
+    {
+     "n": 107,
+     "cat": "chunk",
+     "term": "run through + N",
+     "ipa": "",
+     "pos": "phr. v.",
+     "meaning": "快速過一遍、演練",
+     "usage": "與 #46 go through 相近，但更強調「快速瀏覽或排練」。名詞 a run-through（彩排）。",
+     "example": "Let's run through the presentation one more time before the client meeting.",
+     "trans": "客戶會議前，我們再把簡報快速演練一遍吧。"
+    },
+    {
+     "n": 108,
+     "cat": "chunk",
+     "term": "it turns out (that)… / turn out to be",
+     "ipa": "",
+     "pos": "phr.",
+     "meaning": "結果（原來）……",
+     "usage": "表示「事後才發現」，是敘事中非常道地的轉折語。",
+     "example": "The restaurant we picked at random turned out to be one of the best in town.",
+     "trans": "我們隨便挑的那家餐廳，結果竟是城裡數一數二的好店。"
+    },
+    {
+     "n": 109,
+     "cat": "chunk",
+     "term": "set aside + N",
+     "ipa": "aside /əˈsaɪd/",
+     "pos": "phr. v.",
+     "meaning": "預留、撥出（時間、金錢、物資）",
+     "usage": "set aside time / money / a budget for…。另一意思是「擱置（分歧）」：set aside our differences。",
+     "example": "I try to set aside 20% of my salary for savings every month.",
+     "trans": "我每個月都盡量把薪水的兩成存起來。"
+    },
+    {
+     "n": 110,
+     "cat": "chunk",
+     "term": "keep to + N",
+     "ipa": "",
+     "pos": "phr. v.",
+     "meaning": "遵守、照著（計畫、規則）走",
+     "usage": "keep to the schedule / the rules / the budget / the point。keep to the point 是「不離題」。",
+     "example": "Please keep to the time limit so that everyone gets a chance to speak.",
+     "trans": "請遵守時間限制，讓每個人都有機會發言。"
+    },
+    {
+     "n": 111,
+     "cat": "chunk",
+     "term": "mean the difference between A and B",
+     "ipa": "",
+     "pos": "phr.",
+     "meaning": "決定 A 或 B 的關鍵",
+     "usage": "最經典的是 mean the difference between life and death（攸關生死），也可替換：between success and failure。",
+     "example": "In sales, a quick response can mean the difference between winning and losing a client.",
+     "trans": "在業務工作上，回覆速度可能決定你是拿下還是失去一位客戶。"
+    },
+    {
+     "n": 112,
+     "cat": "word",
+     "term": "initiative",
+     "ipa": "/ɪˈnɪʃ.ə.t̬ɪv/",
+     "pos": "n.",
+     "meaning": "（新）計畫、方案；主動性",
+     "usage": "①官方或組織推動的計畫：a government initiative；②主動精神：take the initiative、show initiative。",
+     "example": "Employees are encouraged to take the initiative and suggest improvements.",
+     "trans": "公司鼓勵員工主動提出改進建議。"
+    },
+    {
+     "n": 113,
+     "cat": "word",
+     "term": "lethal",
+     "ipa": "/ˈliː.θəl/",
+     "pos": "adj.",
+     "meaning": "致命的",
+     "usage": "= deadly / fatal（#10）。常見 a lethal dose（致死劑量）；也可誇張形容 a lethal combination。",
+     "example": "Some mushrooms contain toxins that are lethal even in small amounts.",
+     "trans": "有些蕈類含有即使少量也會致命的毒素。"
+    },
+    {
+     "n": 114,
+     "cat": "word",
+     "term": "employ",
+     "ipa": "/ɪmˈplɔɪ/",
+     "pos": "v.",
+     "meaning": "使用、採用（方法、技巧）",
+     "usage": "除了「雇用」，正式寫作中 employ = use，受詞常為 a method / strategy / technique。",
+     "example": "The researchers employed a new method to analyze the data.",
+     "trans": "研究人員採用了一種新方法來分析資料。"
+    },
+    {
+     "n": 115,
+     "cat": "word",
+     "term": "consist of",
+     "ipa": "/kənˈsɪst/",
+     "pos": "v.",
+     "meaning": "由……組成",
+     "usage": "不能用被動或進行式（✗ is consisted of）。近義：be made up of、be composed of。",
+     "example": "The committee consists of five members from different departments.",
+     "trans": "委員會由五位來自不同部門的成員組成。"
+    },
+    {
+     "n": 116,
+     "cat": "word",
+     "term": "astounding",
+     "ipa": "/əˈstaʊn.dɪŋ/",
+     "pos": "adj.",
+     "meaning": "令人震驚的、驚人的",
+     "usage": "程度比 surprising 強，常形容結果、數字、成就。近義 astonishing / staggering。",
+     "example": "The app gained an astounding ten million users in its first month.",
+     "trans": "這款應用程式上線首月就獲得驚人的一千萬名用戶。"
+    },
+    {
+     "n": 117,
+     "cat": "word",
+     "term": "witness",
+     "ipa": "/ˈwɪt.nəs/",
+     "pos": "v./n.",
+     "meaning": "目睹、見證；目擊者",
+     "usage": "除了目擊事件，也可抽象地指「見證（變化）」：The city has witnessed rapid growth.",
+     "example": "The past decade has witnessed a dramatic shift in how people consume news.",
+     "trans": "過去十年見證了人們獲取新聞方式的劇烈轉變。"
+    },
+    {
+     "n": 118,
+     "cat": "pattern",
+     "term": "It's hard to imagine that…, Yet…",
+     "ipa": "",
+     "pos": "",
+     "meaning": "很難想像……，然而……",
+     "usage": "先表達懷疑，再用 Yet 推翻，製造反差感。與 #59 是同一類開頭技巧。",
+     "example": "It's hard to imagine that a ten-minute walk could improve your mood. Yet studies show it does.",
+     "trans": "很難想像散步十分鐘就能改善心情，然而研究顯示確實如此。"
+    },
+    {
+     "n": 119,
+     "cat": "pattern",
+     "term": "in case + 子句",
+     "ipa": "",
+     "pos": "",
+     "meaning": "以防萬一……",
+     "usage": "in case 後接直述句（現在式表未來），表「預防」；注意與 if 不同：Take an umbrella in case it rains.（帶傘以防下雨）≠ if it rains（下雨的話才帶）。",
+     "example": "I always save a backup copy in case my laptop crashes.",
+     "trans": "我總會存一份備份，以防筆電當機。"
+    },
+    {
+     "n": 120,
+     "cat": "pattern",
+     "term": "not only A but (may) also B",
+     "ipa": "",
+     "pos": "",
+     "meaning": "不只 A，還（可能）B",
+     "usage": "文中加入 may 讓第二部分語氣更委婉。注意兩邊結構要對稱。",
+     "example": "Learning a second language is not only useful for your career but may also delay cognitive decline.",
+     "trans": "學第二語言不只對職涯有幫助，還可能延緩認知退化。"
+    }
+   ]
+  },
+  {
+   "seg": 7,
+   "top": [
+    121,
+    127,
+    136
+   ],
+   "items": [
+    {
+     "n": 121,
+     "cat": "chunk",
+     "term": "Take, for instance, + N.",
+     "ipa": "instance /ˈɪn.stəns/",
+     "pos": "phr.",
+     "meaning": "就拿……來說吧",
+     "usage": "舉例的道地開頭，比 For example, 更生動。也可說 Take X, for example.",
+     "example": "Take, for instance, Japan: its population has been shrinking for over a decade.",
+     "trans": "就拿日本來說吧，它的人口已經持續減少超過十年了。"
+    },
+    {
+     "n": 122,
+     "cat": "chunk",
+     "term": "what most (people) would call + N",
+     "ipa": "",
+     "pos": "phr.",
+     "meaning": "大多數人所謂的……",
+     "usage": "先用大家熟悉的稱呼，再提出新觀點，常接 Yet… 轉折。",
+     "example": "What most would call a hobby has become a full-time business for her.",
+     "trans": "大多數人眼中的嗜好，對她來說已經成了全職事業。"
+    },
+    {
+     "n": 123,
+     "cat": "chunk",
+     "term": "on display",
+     "ipa": "display /dɪˈspleɪ/",
+     "pos": "phr.",
+     "meaning": "展示中、陳列著",
+     "usage": "be on display、put something on display；也可抽象指「表現出來」：Her talent was on full display.",
+     "example": "The company's latest models are on display in the lobby.",
+     "trans": "公司最新的機型陳列在大廳。"
+    },
+    {
+     "n": 124,
+     "cat": "chunk",
+     "term": "meet + requirements/standards",
+     "ipa": "",
+     "pos": "phr.",
+     "meaning": "符合要求／標準",
+     "usage": "meet 的重要搭配：meet requirements / standards / expectations / deadlines / needs。商務高頻。",
+     "example": "All products must meet strict safety standards before they can be sold.",
+     "trans": "所有產品都必須符合嚴格的安全標準才能販售。"
+    },
+    {
+     "n": 125,
+     "cat": "chunk",
+     "term": "it is no surprise that…",
+     "ipa": "",
+     "pos": "phr.",
+     "meaning": "難怪……、……一點也不意外",
+     "usage": "= It's no wonder that…，常用於歸納結論。也可說 come as no surprise。",
+     "example": "Given how hard she works, it is no surprise that she got promoted so quickly.",
+     "trans": "看她那麼努力，難怪她升遷得這麼快。"
+    },
+    {
+     "n": 126,
+     "cat": "chunk",
+     "term": "make the list",
+     "ipa": "",
+     "pos": "phr.",
+     "meaning": "上榜、入選名單",
+     "usage": "make 在這裡是「達到、進入」，如 make the team（入選隊伍）、make the cut（通過篩選）。",
+     "example": "Only ten startups made the shortlist for the innovation award.",
+     "trans": "只有十家新創公司進入創新獎的決選名單。"
+    },
+    {
+     "n": 127,
+     "cat": "chunk",
+     "term": "give sb an edge over + N",
+     "ipa": "edge /edʒ/",
+     "pos": "phr.",
+     "meaning": "讓某人比……更有優勢",
+     "usage": "edge = 優勢，常見 a competitive edge（競爭優勢）、have the edge over。",
+     "example": "Being fluent in Japanese gave her an edge over other applicants.",
+     "trans": "日語流利讓她比其他應徵者更有優勢。"
+    },
+    {
+     "n": 128,
+     "cat": "chunk",
+     "term": "rake in the big bucks",
+     "ipa": "rake /reɪk/ · bucks /bʌks/",
+     "pos": "idiom",
+     "meaning": "大把大把地賺錢",
+     "usage": "口語，rake in 是「（像耙子一樣）大量收進」，big bucks 是「大錢」。也可單用 rake in profits / millions。",
+     "example": "Top YouTubers can rake in the big bucks from sponsorship deals.",
+     "trans": "頂尖的 YouTuber 可以靠業配合作賺進大把鈔票。"
+    },
+    {
+     "n": 129,
+     "cat": "chunk",
+     "term": "yield + results",
+     "ipa": "yield /jiːld/",
+     "pos": "phr.",
+     "meaning": "產生成果",
+     "usage": "yield 原意「生產、產出」，常見 yield results / benefits / profits / a return。",
+     "example": "The new marketing strategy has already begun to yield results.",
+     "trans": "新的行銷策略已經開始見效了。"
+    },
+    {
+     "n": 130,
+     "cat": "word",
+     "term": "demand",
+     "ipa": "/dɪˈmænd/",
+     "pos": "v.",
+     "meaning": "需要、要求（某種特質）",
+     "usage": "主詞可以是事物：The job demands patience and attention to detail. 比 require 語氣更強。",
+     "example": "Working in an emergency room demands quick thinking and a calm mind.",
+     "trans": "在急診室工作需要反應快、頭腦冷靜。"
+    },
+    {
+     "n": 131,
+     "cat": "word",
+     "term": "enable",
+     "ipa": "/ɪˈneɪ.bəl/",
+     "pos": "v.",
+     "meaning": "使……能夠",
+     "usage": "enable + 人/物 + to + V，比 let / allow 正式，商務報告常用。",
+     "example": "The new software enables us to process orders twice as fast.",
+     "trans": "新軟體讓我們處理訂單的速度快了一倍。"
+    },
+    {
+     "n": 132,
+     "cat": "word",
+     "term": "exquisite",
+     "ipa": "/ɪkˈskwɪz.ɪt/",
+     "pos": "adj.",
+     "meaning": "精緻的、極其美好的",
+     "usage": "形容食物、設計、工藝、品味，帶有「細膩講究」的感覺。",
+     "example": "The hotel is known for its exquisite service and attention to detail.",
+     "trans": "這家飯店以精緻的服務和對細節的重視聞名。"
+    },
+    {
+     "n": 133,
+     "cat": "word",
+     "term": "rash",
+     "ipa": "/ræʃ/",
+     "pos": "adj.",
+     "meaning": "輕率的、魯莽的",
+     "usage": "常見 a rash decision / promise、Don't do anything rash.（別衝動行事）。注意名詞 rash 是「疹子」。",
+     "example": "Don't make any rash decisions while you're angry.",
+     "trans": "生氣的時候不要做任何衝動的決定。"
+    },
+    {
+     "n": 134,
+     "cat": "word",
+     "term": "uninformed",
+     "ipa": "/ˌʌn.ɪnˈfɔːrmd/",
+     "pos": "adj.",
+     "meaning": "資訊不足的、無知的",
+     "usage": "常見 an uninformed decision / opinion；反義 informed（make an informed decision 做出明智的決定）。",
+     "example": "Voters should avoid making uninformed choices based on rumors.",
+     "trans": "選民應避免根據謠言做出資訊不足的選擇。"
+    },
+    {
+     "n": 135,
+     "cat": "word",
+     "term": "anonymous",
+     "ipa": "/əˈnɑː.nə.məs/",
+     "pos": "adj.",
+     "meaning": "匿名的",
+     "usage": "remain anonymous（保持匿名）、an anonymous donor / survey。名詞 anonymity。",
+     "example": "The survey is completely anonymous, so please answer honestly.",
+     "trans": "這份問卷完全匿名，請誠實作答。"
+    },
+    {
+     "n": 136,
+     "cat": "word",
+     "term": "unassuming",
+     "ipa": "/ˌʌn.əˈsuː.mɪŋ/",
+     "pos": "adj.",
+     "meaning": "不起眼的、謙遜低調的",
+     "usage": "可形容人（不愛出風頭）或事物（外表樸素卻有實力）。",
+     "example": "Behind its unassuming storefront is one of the city's best sushi bars.",
+     "trans": "在那不起眼的店面後面，藏著全城數一數二的壽司店。"
+    },
+    {
+     "n": 137,
+     "cat": "word",
+     "term": "versatile",
+     "ipa": "/ˈvɝː.sə.t̬əl/",
+     "pos": "adj.",
+     "meaning": "多功能的、多才多藝的",
+     "usage": "形容工具、材料、人才都可以：a versatile actor、a versatile ingredient。",
+     "example": "Eggs are one of the most versatile ingredients in the kitchen.",
+     "trans": "雞蛋是廚房裡用途最廣的食材之一。"
+    },
+    {
+     "n": 138,
+     "cat": "word",
+     "term": "diverse",
+     "ipa": "/dɪˈvɝːs/",
+     "pos": "adj.",
+     "meaning": "多樣的、各式各樣的",
+     "usage": "diverse settings / backgrounds / workforce；名詞 diversity。",
+     "example": "Our team includes people from diverse cultural backgrounds.",
+     "trans": "我們團隊的成員來自多元的文化背景。"
+    },
+    {
+     "n": 139,
+     "cat": "pattern",
+     "term": "as a result of + N",
+     "ipa": "",
+     "pos": "",
+     "meaning": "由於……的結果",
+     "usage": "與 #26 result in 互補：「A result in B」=「B as a result of A」。正式寫作常用。",
+     "example": "Several flights were cancelled as a result of the typhoon.",
+     "trans": "由於颱風，好幾個航班被取消了。"
+    },
+    {
+     "n": 140,
+     "cat": "pattern",
+     "term": "From A to B, + 主要子句",
+     "ipa": "",
+     "pos": "",
+     "meaning": "從 A 到 B，……",
+     "usage": "放句首總結範圍，常用於文章結尾強調「廣泛適用」。與 #65、#105 同屬「範圍」家族。",
+     "example": "From managing schedules to tracking expenses, this app handles it all.",
+     "trans": "從管理行程到記帳，這款應用程式全都能搞定。"
+    }
+   ]
+  },
+  {
+   "seg": 8,
+   "top": [
+    142,
+    147,
+    150
+   ],
+   "items": [
+    {
+     "n": 141,
+     "cat": "chunk",
+     "term": "well-crafted",
+     "ipa": "/ˌwelˈkræf.tɪd/",
+     "pos": "adj.",
+     "meaning": "精心設計的、製作精良的",
+     "usage": "可形容文章、計畫、產品：a well-crafted speech / strategy / email。同類複合字 well-designed、well-written。",
+     "example": "A well-crafted cover letter can help you stand out from other applicants.",
+     "trans": "一封精心撰寫的求職信能幫你在眾多應徵者中脫穎而出。"
+    },
+    {
+     "n": 142,
+     "cat": "chunk",
+     "term": "when it comes to + N/V-ing",
+     "ipa": "",
+     "pos": "phr.",
+     "meaning": "說到……、在……方面",
+     "usage": "非常高頻的道地用語，注意 to 是介系詞，後接名詞或動名詞。",
+     "example": "When it comes to saving money, small habits make a big difference.",
+     "trans": "說到存錢，小習慣會帶來很大的差別。"
+    },
+    {
+     "n": 143,
+     "cat": "chunk",
+     "term": "benefit (the most) from + N",
+     "ipa": "benefit /ˈben.ə.fɪt/",
+     "pos": "phr. v.",
+     "meaning": "從……獲益（最多）",
+     "usage": "主詞是「受益者」：Students will benefit from the new program. 反過來 A benefits B 是「A 讓 B 受益」。",
+     "example": "Small businesses will benefit the most from the tax cuts.",
+     "trans": "小型企業將從這次減稅中獲益最多。"
+    },
+    {
+     "n": 144,
+     "cat": "chunk",
+     "term": "skip over + N",
+     "ipa": "skip /skɪp/",
+     "pos": "phr. v.",
+     "meaning": "跳過、略過",
+     "usage": "比單用 skip 更強調「略過不看或不處理」，常見 skip over the details。",
+     "example": "Don't skip over the fine print when signing a contract.",
+     "trans": "簽合約時別略過小字條款。"
+    },
+    {
+     "n": 145,
+     "cat": "chunk",
+     "term": "the dumb stuff",
+     "ipa": "dumb /dʌm/",
+     "pos": "n. phr.",
+     "meaning": "簡單、基本到看似蠢的事",
+     "usage": "口語，dumb = 笨的，stuff = 東西、事情。作者用來指「理所當然、容易被忽略的基本步驟」。注意 dumb 的 b 不發音。",
+     "example": "Most accidents happen because people forget the dumb stuff, like checking the gas before leaving.",
+     "trans": "大多數意外都是因為人們忘了最基本的事，例如出門前檢查瓦斯。"
+    },
+    {
+     "n": 146,
+     "cat": "chunk",
+     "term": "at hand",
+     "ipa": "hand /hænd/",
+     "pos": "phr.",
+     "meaning": "手邊的、當前的",
+     "usage": "放名詞後：the task / issue / problem at hand（眼前要處理的事）。也可指「近在手邊」：Keep your ID at hand.",
+     "example": "Let's stop getting distracted and focus on the issue at hand.",
+     "trans": "我們別再分心了，專注在眼前的問題上吧。"
+    },
+    {
+     "n": 147,
+     "cat": "chunk",
+     "term": "slip through the cracks",
+     "ipa": "cracks /kræks/",
+     "pos": "idiom",
+     "meaning": "被疏漏、被忽略",
+     "usage": "字面是「從縫隙中溜走」，指事情或人在制度中被遺漏。也說 fall through the cracks。",
+     "example": "With so many emails every day, important requests can easily slip through the cracks.",
+     "trans": "每天信件那麼多，重要的請求很容易被漏掉。"
+    },
+    {
+     "n": 148,
+     "cat": "chunk",
+     "term": "along the way",
+     "ipa": "",
+     "pos": "phr.",
+     "meaning": "在過程中、一路上",
+     "usage": "可指實際旅途，也常抽象指「在進行某事的過程中」：learn a lot along the way。",
+     "example": "Starting a business is hard, and you'll make plenty of mistakes along the way.",
+     "trans": "創業很難，過程中你會犯不少錯。"
+    },
+    {
+     "n": 149,
+     "cat": "chunk",
+     "term": "take time to + V",
+     "ipa": "",
+     "pos": "phr.",
+     "meaning": "花時間去……、撥空……",
+     "usage": "強調「刻意騰出時間」；也常見 take the time to（願意花心思去做）。",
+     "example": "Thank you for taking the time to meet with me today.",
+     "trans": "謝謝您今天撥冗與我見面。"
+    },
+    {
+     "n": 150,
+     "cat": "word",
+     "term": "oversight",
+     "ipa": "/ˈoʊ.vɚ.saɪt/",
+     "pos": "n.",
+     "meaning": "疏忽、失察；監督",
+     "usage": "①無心之過：It was an oversight on my part.（是我疏忽了）；②監督管理：regulatory oversight。與 #75 oversee 同源。",
+     "example": "The missing data was due to a simple oversight, not intentional fraud.",
+     "trans": "資料缺漏是一時疏忽造成的，並非蓄意造假。"
+    },
+    {
+     "n": 151,
+     "cat": "word",
+     "term": "actionable",
+     "ipa": "/ˈæk.ʃən.ə.bəl/",
+     "pos": "adj.",
+     "meaning": "可付諸行動的、具體可行的",
+     "usage": "商務高頻字，常見 actionable insights / advice / steps / feedback。",
+     "example": "The consultant's report gave us clear, actionable recommendations.",
+     "trans": "顧問的報告給了我們明確且可執行的建議。"
+    },
+    {
+     "n": 152,
+     "cat": "word",
+     "term": "stubborn",
+     "ipa": "/ˈstʌb.ɚn/",
+     "pos": "adj.",
+     "meaning": "固執的、頑固的",
+     "usage": "形容人：as stubborn as a mule（倔得像頭驢）；也可形容事物「難以去除的」：a stubborn stain、stubborn inflation。",
+     "example": "He's too stubborn to admit he made a mistake.",
+     "trans": "他太固執了，不肯承認自己犯錯。"
+    },
+    {
+     "n": 153,
+     "cat": "word",
+     "term": "falsely",
+     "ipa": "/ˈfɑːls.li/",
+     "pos": "adv.",
+     "meaning": "錯誤地、不實地",
+     "usage": "常見 falsely assume / claim / accuse。文中 falsely assuming that… 指「誤以為……」。",
+     "example": "Many people falsely assume that working longer hours means being more productive.",
+     "trans": "很多人誤以為工作時間越長就代表越有生產力。"
+    },
+    {
+     "n": 154,
+     "cat": "word",
+     "term": "commence",
+     "ipa": "/kəˈmens/",
+     "pos": "v.",
+     "meaning": "開始",
+     "usage": "= begin / start，但非常正式，常用於公告、法律、典禮。名詞 commencement（美國的畢業典禮）。",
+     "example": "Construction is scheduled to commence next spring.",
+     "trans": "工程預定明年春天動工。"
+    },
+    {
+     "n": 155,
+     "cat": "word",
+     "term": "encounter",
+     "ipa": "/ɪnˈkaʊn.t̬ɚ/",
+     "pos": "v./n.",
+     "meaning": "遭遇、碰到（問題）",
+     "usage": "受詞常為 problems / difficulties / resistance，比 meet 或 face 正式。名詞 a chance encounter（偶遇）。",
+     "example": "Please contact IT if you encounter any problems logging in.",
+     "trans": "如果登入時遇到任何問題，請聯絡資訊部門。"
+    },
+    {
+     "n": 156,
+     "cat": "word",
+     "term": "inept",
+     "ipa": "/ɪˈnept/",
+     "pos": "adj.",
+     "meaning": "無能的、笨拙的",
+     "usage": "#13 ineptitude 的形容詞。文中 the inept 是「the + 形容詞」表示一群人，如 the rich、the elderly。",
+     "example": "The company collapsed under a series of inept managers.",
+     "trans": "在一連串無能經理人的領導下，這家公司垮了。"
+    },
+    {
+     "n": 157,
+     "cat": "pattern",
+     "term": "(Are you) Still + V-ing…, despite + N? + 祈使句!",
+     "ipa": "",
+     "pos": "",
+     "meaning": "還在……嗎？試試……！",
+     "usage": "省略主詞與助動詞的口語問句，常見於標題、廣告和文章小標，用來直擊讀者痛點。",
+     "example": "Still struggling to wake up early, despite setting five alarms? Try going to bed an hour earlier!",
+     "trans": "設了五個鬧鐘還是爬不起來嗎？試試早一小時上床睡覺吧！"
+    },
+    {
+     "n": 158,
+     "cat": "pattern",
+     "term": "you (just) might find (that)…",
+     "ipa": "",
+     "pos": "",
+     "meaning": "你可能會發現……",
+     "usage": "委婉地暗示好結果，just 讓語氣更輕鬆、帶點「說不定會有驚喜」的感覺。",
+     "example": "Give the book a chance—you just might find you enjoy it.",
+     "trans": "給這本書一個機會吧，說不定你會發現自己挺喜歡的。"
+    },
+    {
+     "n": 159,
+     "cat": "pattern",
+     "term": "have + 人 + V（原形）",
+     "ipa": "",
+     "pos": "",
+     "meaning": "讓某人去做……",
+     "usage": "使役動詞，常用於指示他人做事，語氣比 make 溫和、比 ask 直接。",
+     "example": "Have each participant write down one question before the session begins.",
+     "trans": "在課程開始前，請每位參加者寫下一個問題。"
+    }
+   ]
+  }
+ ]
+}
