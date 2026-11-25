@@ -1921,6 +1921,357 @@
      "trans": "從錯誤中總有更多可學的。"
     }
    ]
+  },
+  {
+   "seg": 7,
+   "top": [
+    175,
+    181,
+    199
+   ],
+   "items": [
+    {
+     "n": 170,
+     "cat": "chunk",
+     "term": "pick out",
+     "ipa": "",
+     "pos": "phr. v.",
+     "meaning": "辨認出；挑選出",
+     "usage": "pick out sb / sth from a crowd＝從人群中認出；也可指挑選：pick out a gift。",
+     "example": "Can you pick out your sister in this photo?",
+     "trans": "你能在這張照片裡認出你妹妹嗎？"
+    },
+    {
+     "n": 171,
+     "cat": "chunk",
+     "term": "read sth off (a chart / screen)",
+     "ipa": "",
+     "pos": "phr. v.",
+     "meaning": "照著（圖表、螢幕）唸出",
+     "usage": "off 表「從……上面取得」：read the numbers off the screen。",
+     "example": "He just read his speech off the slides.",
+     "trans": "他只是照著投影片唸講稿。"
+    },
+    {
+     "n": 172,
+     "cat": "chunk",
+     "term": "try out",
+     "ipa": "",
+     "pos": "phr. v.",
+     "meaning": "試用、試試看",
+     "usage": "try out a new tool / recipe / idea；try sth on 則專指試穿。",
+     "example": "We're trying out a new project management app.",
+     "trans": "我們在試用一款新的專案管理 App。"
+    },
+    {
+     "n": 173,
+     "cat": "chunk",
+     "term": "leave it at that",
+     "ipa": "",
+     "pos": "idiom",
+     "meaning": "就此打住、不再多說",
+     "usage": "不再追究或補充：Let's just leave it at that.（就這樣吧）。",
+     "example": "He said he was busy, and I left it at that.",
+     "trans": "他說他很忙，我就沒再追問。"
+    },
+    {
+     "n": 174,
+     "cat": "chunk",
+     "term": "take a different approach",
+     "ipa": "approach /əˈproʊtʃ/",
+     "pos": "v. phr.",
+     "meaning": "採取不同做法",
+     "usage": "approach（n.）＝方法；也可說 take a new / fresh / hands-on approach。",
+     "example": "If this doesn't work, we'll take a different approach.",
+     "trans": "如果這樣行不通，我們就換個方法。"
+    },
+    {
+     "n": 175,
+     "cat": "chunk",
+     "term": "at the heart of",
+     "ipa": "",
+     "pos": "phr.",
+     "meaning": "……的核心",
+     "usage": "be at the heart of sth＝是某事的關鍵；近義 at the core of。",
+     "example": "Trust is at the heart of every good partnership.",
+     "trans": "信任是所有良好合作的核心。"
+    },
+    {
+     "n": 176,
+     "cat": "chunk",
+     "term": "hone one's skills",
+     "ipa": "hone /hoʊn/",
+     "pos": "v. phr.",
+     "meaning": "磨練技能",
+     "usage": "hone 原指磨刀，比喻精進：hone your writing / negotiating skills。易混淆 home in on（瞄準）。",
+     "example": "She took a course to hone her presentation skills.",
+     "trans": "她上課磨練簡報技巧。"
+    },
+    {
+     "n": 177,
+     "cat": "chunk",
+     "term": "half the picture",
+     "ipa": "",
+     "pos": "n. phr.",
+     "meaning": "只是一半的事實、片面",
+     "usage": "常說 That's only half the picture. 反義 the full / whole picture、the big picture（大局）。",
+     "example": "Sales numbers only tell half the picture.",
+     "trans": "銷售數字只呈現了一半的情況。"
+    },
+    {
+     "n": 178,
+     "cat": "chunk",
+     "term": "on a (meaningful) level",
+     "ipa": "",
+     "pos": "phr.",
+     "meaning": "在（深刻的）層面上",
+     "usage": "on a personal / emotional / deeper level；在某個層次上理解或連結。",
+     "example": "I connect with this book on a personal level.",
+     "trans": "這本書讓我在個人層面上很有共鳴。"
+    },
+    {
+     "n": 179,
+     "cat": "chunk",
+     "term": "tune into / in to",
+     "ipa": "tune /tuːn/",
+     "pos": "phr. v.",
+     "meaning": "敏銳察覺、與……同頻",
+     "usage": "原指收聽頻道（tune in to the radio）；引申為「留意、理解」他人情緒或需求。反義 tune out（不理會）。",
+     "example": "Good salespeople tune into what customers really want.",
+     "trans": "好的業務能察覺顧客真正想要什麼。"
+    },
+    {
+     "n": 180,
+     "cat": "chunk",
+     "term": "frame of reference",
+     "ipa": "",
+     "pos": "n. phr.",
+     "meaning": "參考框架、看事情的角度",
+     "usage": "每個人理解世界的背景與經驗基礎；近義 perspective、point of view。",
+     "example": "We come from different cultures, so our frames of reference differ.",
+     "trans": "我們來自不同文化，看事情的角度也不同。"
+    },
+    {
+     "n": 181,
+     "cat": "chunk",
+     "term": "hold off on (V-ing)",
+     "ipa": "",
+     "pos": "phr. v.",
+     "meaning": "暫緩、先不要……",
+     "usage": "hold off on + N / V-ing＝延後做；近義 put off、postpone。",
+     "example": "Let's hold off on hiring until the budget is approved.",
+     "trans": "在預算核准前先暫緩招人。"
+    },
+    {
+     "n": 182,
+     "cat": "chunk",
+     "term": "be centered on",
+     "ipa": "",
+     "pos": "v. phr.",
+     "meaning": "以……為中心",
+     "usage": "centered on / around；近義 focused on。customer-centered＝以顧客為中心。",
+     "example": "The discussion was centered on next year's budget.",
+     "trans": "討論以明年的預算為主。"
+    },
+    {
+     "n": 183,
+     "cat": "chunk",
+     "term": "have a sincere interest in",
+     "ipa": "sincere /sɪnˈsɪr/",
+     "pos": "v. phr.",
+     "meaning": "真心感興趣、真心關注",
+     "usage": "sincere＝真誠的；常見 sincere apology / thanks。信件結尾 Sincerely。",
+     "example": "Great managers have a sincere interest in their team's growth.",
+     "trans": "好主管真心關注團隊的成長。"
+    },
+    {
+     "n": 184,
+     "cat": "chunk",
+     "term": "over time",
+     "ipa": "",
+     "pos": "phr.",
+     "meaning": "隨著時間過去、逐漸",
+     "usage": "近義 gradually、in the long run。易混淆 overtime（加班）。",
+     "example": "Over time, small savings add up.",
+     "trans": "隨著時間累積，小額儲蓄會積少成多。"
+    },
+    {
+     "n": 185,
+     "cat": "word",
+     "term": "blurry",
+     "ipa": "/ˈblɝː.i/",
+     "pos": "adj.",
+     "meaning": "模糊的",
+     "usage": "blurry vision / photo；動詞、名詞 blur。比喻記憶模糊：a blurry memory。",
+     "example": "The photo came out blurry because my hand shook.",
+     "trans": "因為手抖，照片拍糊了。"
+    },
+    {
+     "n": 186,
+     "cat": "word",
+     "term": "squint",
+     "ipa": "/skwɪnt/",
+     "pos": "v.",
+     "meaning": "瞇眼看",
+     "usage": "squint at sth；因強光或看不清而瞇眼。",
+     "example": "She squinted at the tiny print on the label.",
+     "trans": "她瞇著眼看標籤上的小字。"
+    },
+    {
+     "n": 187,
+     "cat": "word",
+     "term": "optometrist",
+     "ipa": "/ɑːpˈtɑː.mə.trɪst/",
+     "pos": "n.",
+     "meaning": "驗光師",
+     "usage": "重音在第二音節。eye doctor 是口語；ophthalmologist 是眼科醫師。",
+     "example": "I need to see an optometrist about new glasses.",
+     "trans": "我得去找驗光師配新眼鏡。"
+    },
+    {
+     "n": 188,
+     "cat": "word",
+     "term": "absurd",
+     "ipa": "/əbˈsɝːd/",
+     "pos": "adj.",
+     "meaning": "荒謬的、可笑的",
+     "usage": "比 silly / ridiculous 正式；It's absurd to…。名詞 absurdity。",
+     "example": "It's absurd to expect a reply within five minutes.",
+     "trans": "期望五分鐘內就回覆實在太荒謬。"
+    },
+    {
+     "n": 189,
+     "cat": "word",
+     "term": "empathetic",
+     "ipa": "/ˌem.pəˈθet̬.ɪk/",
+     "pos": "adj.",
+     "meaning": "有同理心的",
+     "usage": "名詞 empathy（#39）；也作 empathic。empathetic listening＝同理傾聽（本書第五習慣）。",
+     "example": "She's an empathetic manager who listens before judging.",
+     "trans": "她是有同理心的主管，會先傾聽再判斷。"
+    },
+    {
+     "n": 190,
+     "cat": "word",
+     "term": "uncover",
+     "ipa": "/ʌnˈkʌv.ɚ/",
+     "pos": "v.",
+     "meaning": "揭露、發掘",
+     "usage": "uncover the truth / a problem / hidden costs；近義 discover、reveal。",
+     "example": "The audit uncovered several billing errors.",
+     "trans": "稽核發現了幾筆帳單錯誤。"
+    },
+    {
+     "n": 191,
+     "cat": "word",
+     "term": "sentiment",
+     "ipa": "/ˈsen.t̬ə.mənt/",
+     "pos": "n.",
+     "meaning": "情感、看法",
+     "usage": "文中指深層的感受；商業常見 customer / market sentiment（市場情緒）。I share your sentiment.＝我有同感。",
+     "example": "Customer sentiment has improved since the update.",
+     "trans": "更新後顧客的觀感有所改善。"
+    },
+    {
+     "n": 192,
+     "cat": "word",
+     "term": "comprehend",
+     "ipa": "/ˌkɑːm.prəˈhend/",
+     "pos": "v.",
+     "meaning": "理解、領會",
+     "usage": "比 understand 正式；多用於否定或強調難以理解：I can't comprehend why…。名詞 comprehension。",
+     "example": "I still can't comprehend how they lost the files.",
+     "trans": "我還是無法理解他們怎麼會把檔案弄丟。"
+    },
+    {
+     "n": 193,
+     "cat": "word",
+     "term": "anecdote",
+     "ipa": "/ˈæn.ɪk.doʊt/",
+     "pos": "n.",
+     "meaning": "小故事、軼事",
+     "usage": "個人經歷的短故事；anecdotal evidence＝個人經驗而非數據的證據。",
+     "example": "He opened the talk with a funny anecdote.",
+     "trans": "他用一個有趣的小故事開場。"
+    },
+    {
+     "n": 194,
+     "cat": "word",
+     "term": "articulate",
+     "ipa": "/ɑːrˈtɪk.jə.leɪt/",
+     "pos": "v.",
+     "meaning": "清楚表達",
+     "usage": "當動詞尾音 /leɪt/；當形容詞 /ɑːrˈtɪk.jə.lət/＝口齒清晰的（an articulate speaker）。",
+     "example": "She articulated the team's concerns clearly.",
+     "trans": "她清楚表達了團隊的顧慮。"
+    },
+    {
+     "n": 195,
+     "cat": "word",
+     "term": "reciprocate",
+     "ipa": "/rɪˈsɪp.rə.keɪt/",
+     "pos": "v.",
+     "meaning": "回報、以同樣方式回應",
+     "usage": "reciprocate with sth；形容詞 reciprocal（互相的）。",
+     "example": "If you show respect, people usually reciprocate.",
+     "trans": "你表現尊重，別人通常也會回報。"
+    },
+    {
+     "n": 196,
+     "cat": "pattern",
+     "term": "Now, you know how + N + usually go(es).",
+     "ipa": "",
+     "pos": "",
+     "meaning": "你也知道……通常是怎麼回事",
+     "usage": "用 how sth goes 描述常見流程，拉近與讀者距離：You know how it goes.（你懂的）。",
+     "example": "You know how these meetings usually go: lots of talk, no decisions.",
+     "trans": "你也知道這種會議通常是怎樣：講很多，沒決定。"
+    },
+    {
+     "n": 197,
+     "cat": "pattern",
+     "term": "What if, instead of V-ing, S + 過去式…?",
+     "ipa": "",
+     "pos": "",
+     "meaning": "要是……沒有……，而是……呢？",
+     "usage": "What if + 過去式＝假設情境；插入 instead of V-ing 做對比。適合提出反常設想。",
+     "example": "What if, instead of hiring more staff, we automated the process?",
+     "trans": "要是不多請人，而是把流程自動化呢？"
+    },
+    {
+     "n": 198,
+     "cat": "pattern",
+     "term": "X means more than simply…",
+     "ipa": "",
+     "pos": "",
+     "meaning": "X 不只是……而已",
+     "usage": "用來深化定義：Leadership means more than simply giving orders.",
+     "example": "Listening means more than simply waiting for your turn to talk.",
+     "trans": "傾聽不只是等著輪到自己說話而已。"
+    },
+    {
+     "n": 199,
+     "cat": "pattern",
+     "term": "For X to work, you must…",
+     "ipa": "",
+     "pos": "",
+     "meaning": "要讓 X 奏效，你必須……",
+     "usage": "for + 名詞 + to V 當目的：For the plan to succeed, we need…。適合點出必要條件。",
+     "example": "For remote work to work, you must communicate clearly.",
+     "trans": "要讓遠距工作成功，你必須清楚溝通。"
+    },
+    {
+     "n": 200,
+     "cat": "pattern",
+     "term": "It takes time, effort, and practice to…",
+     "ipa": "",
+     "pos": "",
+     "meaning": "……需要時間、努力和練習",
+     "usage": "It takes + 名詞 + to V；列三項增強語氣。也可加人：It took me years to…",
+     "example": "It takes time, effort, and practice to build trust with a new team.",
+     "trans": "和新團隊建立信任需要時間、努力和練習。"
+    }
+   ]
   }
  ]
 }
